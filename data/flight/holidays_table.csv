@@ -1,0 +1,509 @@
+Date,Day,Name,Type
+2003-01-01,Wednesday,New Year's Day,Public Holiday
+2003-01-02,Thursday,January 2 Joint Holiday,Joint Holiday
+2003-02-01,Saturday,Chinese Lunar New Year's Day,Public Holiday
+2003-02-12,Wednesday,Eid al-Adha,Public Holiday
+2003-03-05,Wednesday,Muharram/Islamic New Year,Public Holiday
+2003-03-21,Friday,March Equinox,Season
+2003-04-18,Friday,Good Friday,Public Holiday
+2003-04-20,Sunday,Easter Sunday,Observance
+2003-05-29,Thursday,Ascension Day of Jesus Christ,Public Holiday
+2003-06-22,Sunday,June Solstice,Season
+2003-08-17,Sunday,Indonesian Independence Day,Public Holiday
+2003-08-18,Monday,Indonesian Independence Day observed,Public Holiday
+2003-09-23,Tuesday,September Equinox,Season
+2003-09-24,Wednesday,Ascension of the Prophet Muhammad,Public Holiday
+2003-11-26,Wednesday,Idul Fitri Day 1,Public Holiday
+2003-11-27,Thursday,Idul Fitri Day 2,Public Holiday
+2003-12-21,Sunday,December 21 Joint Holiday,Joint Holiday
+2003-12-22,Monday,December Solstice,Season
+2003-12-24,Wednesday,Christmas Eve,Observance
+2003-12-25,Thursday,Christmas Day,Public Holiday
+2003-12-31,Wednesday,New Year's Eve,Observance
+2004-01-01,Thursday,New Year's Day,Public Holiday
+2004-01-02,Friday,January 2 Joint Holiday,Joint Holiday
+2004-01-22,Thursday,Chinese Lunar New Year's Day,Public Holiday
+2004-02-02,Monday,Eid al-Adha,Public Holiday
+2004-02-22,Sunday,Muharram/Islamic New Year,Public Holiday
+2004-03-20,Saturday,March Equinox,Season
+2004-04-09,Friday,Good Friday,Public Holiday
+2004-04-11,Sunday,Easter Sunday,Observance
+2004-05-20,Thursday,Ascension Day of Jesus Christ,Public Holiday
+2004-06-21,Monday,June Solstice,Season
+2004-08-17,Tuesday,Indonesian Independence Day,Public Holiday
+2004-09-12,Sunday,Ascension of the Prophet Muhammad,Public Holiday
+2004-09-22,Wednesday,September Equinox,Season
+2004-11-14,Sunday,Idul Fitri Day 1,Public Holiday
+2004-11-15,Monday,Idul Fitri Day 2,Public Holiday
+2004-12-21,Tuesday,December Solstice,Season
+2004-12-21,Tuesday,December 21 Joint Holiday,Joint Holiday
+2004-12-24,Friday,Christmas Eve,Observance
+2004-12-25,Saturday,Christmas Day,Public Holiday
+2004-12-31,Friday,New Year's Eve,Observance
+2005-01-01,Saturday,New Year's Day,Public Holiday
+2005-01-02,Sunday,January 2 Joint Holiday,Joint Holiday
+2005-01-21,Friday,Eid al-Adha,Public Holiday
+2005-02-09,Wednesday,Chinese Lunar New Year's Day,Public Holiday
+2005-02-10,Thursday,Muharram/Islamic New Year,Public Holiday
+2005-03-20,Sunday,March Equinox,Season
+2005-03-25,Friday,Good Friday,Public Holiday
+2005-03-27,Sunday,Easter Sunday,Observance
+2005-05-05,Thursday,Ascension Day of Jesus Christ,Public Holiday
+2005-06-21,Tuesday,June Solstice,Season
+2005-08-17,Wednesday,Indonesian Independence Day,Public Holiday
+2005-09-01,Thursday,Ascension of the Prophet Muhammad,Public Holiday
+2005-09-23,Friday,September Equinox,Season
+2005-11-01,Tuesday,Diwali/Deepavali,Observance
+2005-11-04,Friday,Idul Fitri Day 1,Public Holiday
+2005-11-05,Saturday,Idul Fitri Day 2,Public Holiday
+2005-12-22,Thursday,December Solstice,Season
+2005-12-21,Wednesday,December 21 Joint Holiday,Joint Holiday
+2005-12-24,Saturday,Christmas Eve,Observance
+2005-12-25,Sunday,Christmas Day,Public Holiday
+2005-12-31,Saturday,New Year's Eve,Observance
+2006-01-01,Sunday,New Year's Day,Public Holiday
+2006-01-02,Monday,January 2 Joint Holiday,Joint Holiday
+2006-01-10,Tuesday,Eid al-Adha,Public Holiday
+2006-01-30,Monday,Chinese Lunar New Year's Day,Public Holiday
+2006-01-31,Tuesday,Muharram/Islamic New Year,Public Holiday
+2006-03-21,Tuesday,March Equinox,Season
+2006-03-30,Thursday,Bali's Day of Silence and Hindu New Year,Public Holiday
+2006-04-10,Monday,The Prophet Muhammad's Birthday,Public Holiday
+2006-04-14,Friday,Good Friday,Public Holiday
+2006-04-16,Sunday,Easter Sunday,Observance
+2006-05-25,Thursday,Ascension Day of Jesus Christ,Public Holiday
+2006-06-21,Wednesday,June Solstice,Season
+2006-08-17,Thursday,Indonesian Independence Day,Public Holiday
+2006-08-22,Tuesday,Ascension of the Prophet Muhammad,Public Holiday
+2006-09-23,Saturday,September Equinox,Season
+2006-10-21,Saturday,Diwali/Deepavali,Observance
+2006-10-23,Monday,Cuti Bersama,Joint Holiday
+2006-10-24,Tuesday,Idul Fitri Day 1,Public Holiday
+2006-10-25,Wednesday,Idul Fitri Day 2,Public Holiday
+2006-10-26,Thursday,Cuti Bersama,Joint Holiday
+2006-10-27,Friday,Cuti Bersama,Joint Holiday
+2006-10-27,Friday,Cuti Bersama,Joint Holiday
+2006-12-21,Thursday,December 21 Joint Holiday,Joint Holiday
+2006-12-22,Friday,December Solstice,Season
+2006-12-24,Sunday,Christmas Eve,Observance
+2006-12-25,Monday,Christmas Day,Public Holiday
+2006-12-31,Sunday,New Year's Eve,Observance
+2006-12-31,Sunday,Eid al-Adha,Public Holiday
+2007-01-01,Monday,New Year's Day,Public Holiday
+2007-01-02,Tuesday,January 2 Joint Holiday,Joint Holiday
+2007-01-20,Saturday,Muharram/Islamic New Year,Public Holiday
+2007-02-19,Monday,Chinese Lunar New Year's Day,Public Holiday
+2007-03-19,Monday,Bali's Day of Silence and Hindu New Year,Public Holiday
+2007-03-21,Wednesday,March Equinox,Season
+2007-03-31,Saturday,The Prophet Muhammad's Birthday,Public Holiday
+2007-04-06,Friday,Good Friday,Public Holiday
+2007-04-08,Sunday,Easter Sunday,Observance
+2007-05-17,Thursday,Ascension Day of Jesus Christ,Public Holiday
+2007-05-18,Friday,Joint Holiday after Ascension Day,Joint Holiday
+2007-06-01,Friday,Waisak Day (Buddha's Anniversary),Public Holiday
+2007-06-22,Friday,June Solstice,Season
+2007-08-11,Saturday,Ascension of the Prophet Muhammad,Public Holiday
+2007-08-17,Friday,Indonesian Independence Day,Public Holiday
+2007-09-23,Sunday,September Equinox,Season
+2007-10-12,Friday,Cuti Bersama,Joint Holiday
+2007-10-13,Saturday,Idul Fitri Day 1,Public Holiday
+2007-10-14,Sunday,Idul Fitri Day 2,Public Holiday
+2007-10-15,Monday,Cuti Bersama,Joint Holiday
+2007-10-16,Tuesday,Cuti Bersama,Joint Holiday
+2007-10-16,Tuesday,Cuti Bersama,Joint Holiday
+2007-11-09,Friday,Diwali/Deepavali,Observance
+2007-12-20,Thursday,Eid al-Adha,Public Holiday
+2007-12-21,Friday,December 21 Joint Holiday,Joint Holiday
+2007-12-22,Saturday,December Solstice,Season
+2007-12-24,Monday,Cuti Bersama (Christmas Eve),Joint Holiday
+2007-12-25,Tuesday,Christmas Day,Public Holiday
+2007-12-31,Monday,New Year's Eve,Observance
+2008-01-01,Tuesday,New Year's Day,Public Holiday
+2008-01-10,Thursday,Muharram/Islamic New Year,Public Holiday
+2008-01-11,Friday,Joint Holiday after Muharram,Joint Holiday
+2008-02-07,Thursday,Chinese Lunar New Year's Day,Public Holiday
+2008-02-08,Friday,Joint Holiday after Imlek,Joint Holiday
+2008-03-07,Friday,Bali's Day of Silence and Hindu New Year,Public Holiday
+2008-03-20,Thursday,March Equinox,Season
+2008-03-20,Thursday,The Prophet Muhammad's Birthday,Public Holiday
+2008-03-21,Friday,Good Friday,Public Holiday
+2008-03-22,Saturday,Holi,Hindu Holiday
+2008-03-23,Sunday,Easter Sunday,Observance
+2008-05-01,Thursday,Ascension Day of Jesus Christ,Public Holiday
+2008-05-02,Friday,Joint Holiday after Ascension Day,Joint Holiday
+2008-05-19,Monday,Joint Holiday before Waisak Day,Joint Holiday
+2008-05-20,Tuesday,Waisak Day (Buddha's Anniversary),Public Holiday
+2008-06-21,Saturday,June Solstice,Season
+2008-07-31,Thursday,Ascension of the Prophet Muhammad,Public Holiday
+2008-08-16,Saturday,Raksha Bandhan,Hindu Holiday
+2008-08-17,Sunday,Indonesian Independence Day,Public Holiday
+2008-08-18,Monday,Indonesian Independence Day observed,Public Holiday
+2008-08-24,Sunday,Janmashtami,Hindu Holiday
+2008-09-03,Wednesday,Ganesh Chaturthi,Hindu Holiday
+2008-09-22,Monday,September Equinox,Season
+2008-09-29,Monday,Cuti Bersama,Joint Holiday
+2008-09-30,Tuesday,Navaratri,Hindu Holiday
+2008-09-30,Tuesday,Cuti Bersama,Joint Holiday
+2008-10-02,Thursday,Idul Fitri Day 1,Public Holiday
+2008-10-03,Friday,Idul Fitri Day 2,Public Holiday
+2008-10-03,Friday,Cuti Bersama,Joint Holiday
+2008-10-09,Thursday,Dussehra,Hindu Holiday
+2008-10-28,Tuesday,Diwali/Deepavali,Observance
+2008-12-08,Monday,Eid al-Adha,Public Holiday
+2008-12-21,Sunday,December Solstice,Season
+2008-12-24,Wednesday,Christmas Eve,Observance
+2008-12-25,Thursday,Christmas Day,Public Holiday
+2008-12-29,Monday,Muharram/Islamic New Year,Public Holiday
+2008-12-31,Wednesday,New Year's Eve,Observance
+2009-01-01,Thursday,New Year's Day,Public Holiday
+2009-01-26,Monday,Chinese Lunar New Year's Day,Public Holiday
+2009-03-09,Monday,The Prophet Muhammad's Birthday,Public Holiday
+2009-03-11,Wednesday,Holi,Hindu Holiday
+2009-03-20,Friday,March Equinox,Season
+2009-03-26,Thursday,Bali's Day of Silence and Hindu New Year,Public Holiday
+2009-04-10,Friday,Good Friday,Public Holiday
+2009-04-12,Sunday,Easter Sunday,Observance
+2009-05-09,Saturday,Waisak Day (Buddha's Anniversary),Public Holiday
+2009-05-21,Thursday,Ascension Day of Jesus Christ,Public Holiday
+2009-06-21,Sunday,June Solstice,Season
+2009-07-20,Monday,Ascension of the Prophet Muhammad,Public Holiday
+2009-08-05,Wednesday,Raksha Bandhan,Hindu Holiday
+2009-08-13,Thursday,Janmashtami,Hindu Holiday
+2009-08-17,Monday,Indonesian Independence Day,Public Holiday
+2009-08-23,Sunday,Ganesh Chaturthi,Hindu Holiday
+2009-09-19,Saturday,Navaratri,Hindu Holiday
+2009-09-21,Monday,Idul Fitri Day 1,Public Holiday
+2009-09-23,Wednesday,September Equinox,Season
+2009-09-22,Tuesday,Idul Fitri Day 2,Public Holiday
+2009-09-23,Wednesday,Cuti Bersama,Joint Holiday
+2009-10-17,Saturday,Diwali/Deepavali,Observance
+2009-10-28,Wednesday,Dussehra,Hindu Holiday
+2009-11-27,Friday,Eid al-Adha,Public Holiday
+2009-12-18,Friday,Muharram/Islamic New Year,Public Holiday
+2009-12-22,Tuesday,December Solstice,Season
+2009-12-24,Thursday,Cuti Bersama (Christmas Eve),Joint Holiday
+2009-12-25,Friday,Christmas Day,Public Holiday
+2009-12-31,Thursday,New Year's Eve,Observance
+2010-01-01,Friday,New Year's Day,Public Holiday
+2010-02-15,Monday,Chinese Lunar New Year's Day,Public Holiday
+2010-02-26,Friday,The Prophet Muhammad's Birthday,Public Holiday
+2010-03-01,Monday,Holi,Hindu Holiday
+2010-03-16,Tuesday,Bali's Day of Silence and Hindu New Year,Public Holiday
+2010-03-21,Sunday,March Equinox,Season
+2010-04-02,Friday,Good Friday,Public Holiday
+2010-04-04,Sunday,Easter Sunday,Observance
+2010-05-13,Thursday,Ascension Day of Jesus Christ,Public Holiday
+2010-05-28,Friday,Waisak Day (Buddha's Anniversary),Public Holiday
+2010-06-21,Monday,June Solstice,Season
+2010-07-09,Friday,Ascension of the Prophet Muhammad,Public Holiday
+2010-08-17,Tuesday,Indonesian Independence Day,Public Holiday
+2010-08-24,Tuesday,Raksha Bandhan,Hindu Holiday
+2010-09-01,Wednesday,Janmashtami,Hindu Holiday
+2010-09-09,Thursday,Cuti Bersama,Joint Holiday
+2010-09-10,Friday,Idul Fitri Day 1,Public Holiday
+2010-09-11,Saturday,Ganesh Chaturthi,Hindu Holiday
+2010-09-11,Saturday,Idul Fitri Day 2,Public Holiday
+2010-09-13,Monday,Cuti Bersama,Joint Holiday
+2010-09-23,Thursday,September Equinox,Season
+2010-10-08,Friday,Navaratri,Hindu Holiday
+2010-10-17,Sunday,Dussehra,Hindu Holiday
+2010-11-05,Friday,Diwali/Deepavali,Observance
+2010-11-17,Wednesday,Eid al-Adha,Public Holiday
+2010-12-07,Tuesday,Muharram/Islamic New Year,Public Holiday
+2010-12-22,Wednesday,December Solstice,Season
+2010-12-24,Friday,Cuti Bersama (Christmas Eve),Joint Holiday
+2010-12-25,Saturday,Christmas Day,Public Holiday
+2010-12-31,Friday,New Year's Eve,Observance
+2011-01-01,Saturday,New Year's Day,Public Holiday
+2011-02-03,Thursday,Chinese Lunar New Year's Day,Public Holiday
+2011-02-15,Tuesday,The Prophet Muhammad's Birthday,Public Holiday
+2011-03-05,Saturday,Bali's Day of Silence and Hindu New Year,Public Holiday
+2011-03-20,Sunday,Holi,Hindu Holiday
+2011-03-21,Monday,March Equinox,Season
+2011-04-22,Friday,Good Friday,Public Holiday
+2011-04-24,Sunday,Easter Sunday,Observance
+2011-05-17,Tuesday,Waisak Day (Buddha's Anniversary),Public Holiday
+2011-06-02,Thursday,Ascension Day of Jesus Christ,Public Holiday
+2011-06-22,Wednesday,June Solstice,Season
+2011-06-29,Wednesday,Ascension of the Prophet Muhammad,Public Holiday
+2011-08-13,Saturday,Raksha Bandhan,Hindu Holiday
+2011-08-17,Wednesday,Indonesian Independence Day,Public Holiday
+2011-08-22,Monday,Janmashtami,Hindu Holiday
+2011-08-31,Wednesday,Idul Fitri Day 1,Public Holiday
+2011-09-01,Thursday,Ganesh Chaturthi,Hindu Holiday
+2011-09-01,Thursday,Idul Fitri Day 2,Public Holiday
+2011-09-23,Friday,September Equinox,Season
+2011-09-28,Wednesday,Navaratri,Hindu Holiday
+2011-10-06,Thursday,Dussehra,Hindu Holiday
+2011-10-26,Wednesday,Diwali/Deepavali,Observance
+2011-11-06,Sunday,Eid al-Adha,Public Holiday
+2011-11-27,Sunday,Muharram/Islamic New Year,Public Holiday
+2011-12-22,Thursday,December Solstice,Season
+2011-12-24,Saturday,Christmas Eve,Observance
+2011-12-25,Sunday,Christmas Day,Public Holiday
+2011-12-31,Saturday,New Year's Eve,Observance
+2012-01-01,Sunday,New Year's Day,Public Holiday
+2012-01-23,Monday,Chinese Lunar New Year's Day,Public Holiday
+2012-02-05,Sunday,The Prophet Muhammad's Birthday,Public Holiday
+2012-03-08,Thursday,Holi,Hindu Holiday
+2012-03-20,Tuesday,March Equinox,Season
+2012-03-23,Friday,Bali's Day of Silence and Hindu New Year,Public Holiday
+2012-04-06,Friday,Good Friday,Public Holiday
+2012-04-08,Sunday,Easter Sunday,Observance
+2012-05-06,Sunday,Waisak Day (Buddha's Anniversary),Public Holiday
+2012-05-17,Thursday,Ascension Day of Jesus Christ,Public Holiday
+2012-06-17,Sunday,Ascension of the Prophet Muhammad,Public Holiday
+2012-06-21,Thursday,June Solstice,Season
+2012-08-02,Thursday,Raksha Bandhan,Hindu Holiday
+2012-08-09,Thursday,Janmashtami,Hindu Holiday
+2012-08-17,Friday,Indonesian Independence Day,Public Holiday
+2012-08-19,Sunday,Idul Fitri Day 1,Public Holiday
+2012-08-20,Monday,Idul Fitri Day 2,Public Holiday
+2012-09-19,Wednesday,Ganesh Chaturthi,Hindu Holiday
+2012-09-22,Saturday,September Equinox,Season
+2012-10-16,Tuesday,Navaratri,Hindu Holiday
+2012-10-24,Wednesday,Dussehra,Hindu Holiday
+2012-10-26,Friday,Eid al-Adha,Public Holiday
+2012-11-13,Tuesday,Diwali/Deepavali,Observance
+2012-11-15,Thursday,Muharram/Islamic New Year,Public Holiday
+2012-12-21,Friday,December Solstice,Season
+2012-12-24,Monday,Christmas Eve,Observance
+2012-12-25,Tuesday,Christmas Day,Public Holiday
+2012-12-31,Monday,New Year's Eve,Observance
+2013-01-01,Tuesday,New Year's Day,Public Holiday
+2013-01-24,Thursday,The Prophet Muhammad's Birthday,Public Holiday
+2013-02-11,Monday,Chinese Lunar New Year's Day,Public Holiday
+2013-03-12,Tuesday,Bali's Day of Silence and Hindu New Year,Public Holiday
+2013-03-20,Wednesday,March Equinox,Season
+2013-03-27,Wednesday,Holi,Hindu Holiday
+2013-03-29,Friday,Good Friday,Public Holiday
+2013-03-31,Sunday,Easter Sunday,Observance
+2013-05-09,Thursday,Ascension Day of Jesus Christ,Public Holiday
+2013-05-25,Saturday,Waisak Day (Buddha's Anniversary),Public Holiday
+2013-06-06,Thursday,Ascension of the Prophet Muhammad,Public Holiday
+2013-06-21,Friday,June Solstice,Season
+2013-08-08,Thursday,Idul Fitri Day 1,Public Holiday
+2013-08-09,Friday,Idul Fitri Day 2,Public Holiday
+2013-08-17,Saturday,Indonesian Independence Day,Public Holiday
+2013-08-20,Tuesday,Raksha Bandhan,Hindu Holiday
+2013-08-28,Wednesday,Janmashtami,Hindu Holiday
+2013-09-09,Monday,Ganesh Chaturthi,Hindu Holiday
+2013-09-23,Monday,September Equinox,Season
+2013-10-05,Saturday,Navaratri,Hindu Holiday
+2013-10-13,Sunday,Dussehra,Hindu Holiday
+2013-10-15,Tuesday,Eid al-Adha,Public Holiday
+2013-11-03,Sunday,Diwali/Deepavali,Observance
+2013-11-05,Tuesday,Muharram/Islamic New Year,Public Holiday
+2013-12-22,Sunday,December Solstice,Season
+2013-12-24,Tuesday,Christmas Eve,Observance
+2013-12-25,Wednesday,Christmas Day,Public Holiday
+2013-12-31,Tuesday,New Year's Eve,Observance
+2014-01-01,Wednesday,New Year's Day,Public Holiday
+2014-01-14,Tuesday,The Prophet Muhammad's Birthday,Public Holiday
+2014-01-31,Friday,Chinese Lunar New Year's Day,Public Holiday
+2014-03-17,Monday,Holi,Hindu Holiday
+2014-03-20,Thursday,March Equinox,Season
+2014-03-31,Monday,Bali's Day of Silence and Hindu New Year,Public Holiday
+2014-04-09,Wednesday,Legislative Election Day,Public Holiday
+2014-04-18,Friday,Good Friday,Public Holiday
+2014-04-20,Sunday,Easter Sunday,Observance
+2014-05-01,Thursday,International Labor Day,Public Holiday
+2014-05-15,Thursday,Waisak Day (Buddha's Anniversary),Public Holiday
+2014-05-27,Tuesday,Ascension of the Prophet Muhammad,Public Holiday
+2014-05-29,Thursday,Ascension Day of Jesus Christ,Public Holiday
+2014-06-21,Saturday,June Solstice,Season
+2014-07-09,Wednesday,Presidential Election Day,Public Holiday
+2014-07-28,Monday,Idul Fitri Day 1,Public Holiday
+2014-07-29,Tuesday,Idul Fitri Day 2,Public Holiday
+2014-07-30,Wednesday,Cuti Bersama,Joint Holiday
+2014-07-31,Thursday,Cuti Bersama,Joint Holiday
+2014-08-01,Friday,Cuti Bersama,Joint Holiday
+2014-08-10,Sunday,Raksha Bandhan,Hindu Holiday
+2014-08-17,Sunday,Janmashtami,Hindu Holiday
+2014-08-17,Sunday,Indonesian Independence Day,Public Holiday
+2014-08-29,Friday,Ganesh Chaturthi,Hindu Holiday
+2014-09-23,Tuesday,September Equinox,Season
+2014-09-25,Thursday,Navaratri,Hindu Holiday
+2014-10-03,Friday,Dussehra,Hindu Holiday
+2014-10-05,Sunday,Eid al-Adha,Public Holiday
+2014-10-22,Wednesday,Diwali/Deepavali,Observance
+2014-10-25,Saturday,Muharram/Islamic New Year,Public Holiday
+2014-12-22,Monday,December Solstice,Season
+2014-12-24,Wednesday,Christmas Eve,Observance
+2014-12-25,Thursday,Christmas Day,Public Holiday
+2014-12-26,Friday,Day after Christmas Day,Joint Holiday
+2014-12-31,Wednesday,New Year's Eve,Observance
+2015-01-01,Thursday,New Year's Day,Public Holiday
+2015-01-03,Saturday,The Prophet Muhammad's Birthday,Public Holiday
+2015-02-19,Thursday,Chinese Lunar New Year's Day,Public Holiday
+2015-03-06,Friday,Holi,Hindu Holiday
+2015-03-21,Saturday,March Equinox,Season
+2015-03-21,Saturday,Bali's Day of Silence and Hindu New Year,Public Holiday
+2015-04-03,Friday,Good Friday,Public Holiday
+2015-04-05,Sunday,Easter Sunday,Observance
+2015-05-01,Friday,International Labor Day,Public Holiday
+2015-05-14,Thursday,Ascension Day of Jesus Christ,Public Holiday
+2015-05-16,Saturday,Ascension of the Prophet Muhammad,Public Holiday
+2015-06-02,Tuesday,Waisak Day (Buddha's Anniversary),Public Holiday
+2015-06-21,Sunday,June Solstice,Season
+2015-07-16,Thursday,Cuti Bersama,Joint Holiday
+2015-07-17,Friday,Idul Fitri Day 1,Public Holiday
+2015-07-18,Saturday,Idul Fitri Day 2,Public Holiday
+2015-07-20,Monday,Cuti Bersama,Joint Holiday
+2015-07-21,Tuesday,Cuti Bersama,Joint Holiday
+2015-08-17,Monday,Indonesian Independence Day,Public Holiday
+2015-08-29,Saturday,Raksha Bandhan,Hindu Holiday
+2015-09-05,Saturday,Janmashtami,Hindu Holiday
+2015-09-17,Thursday,Ganesh Chaturthi,Hindu Holiday
+2015-09-23,Wednesday,September Equinox,Season
+2015-09-24,Thursday,Eid al-Adha,Public Holiday
+2015-10-14,Wednesday,Navaratri,Hindu Holiday
+2015-10-14,Wednesday,Muharram/Islamic New Year,Public Holiday
+2015-10-22,Thursday,Dussehra,Hindu Holiday
+2015-11-11,Wednesday,Diwali/Deepavali,Observance
+2015-12-09,Wednesday,Regional Election Day,Public Holiday
+2015-12-22,Tuesday,December Solstice,Season
+2015-12-24,Thursday,Cuti Bersama (Christmas Eve),Joint Holiday
+2015-12-24,Thursday,The Prophet Muhammad's Birthday,Public Holiday
+2015-12-25,Friday,Christmas Day,Public Holiday
+2015-12-31,Thursday,New Year's Eve,Observance
+2016-01-01,Friday,New Year's Day,Public Holiday
+2016-02-08,Monday,Chinese Lunar New Year's Day,Public Holiday
+2016-03-07,Monday,Maha Shivaratri,Hindu Holiday
+2016-03-09,Wednesday,Bali's Day of Silence and Hindu New Year,Public Holiday
+2016-03-20,Sunday,March Equinox,Season
+2016-03-24,Thursday,Holi,Hindu Holiday
+2016-03-25,Friday,Good Friday,Public Holiday
+2016-03-27,Sunday,Easter Sunday,Observance
+2016-05-01,Sunday,International Labor Day,Public Holiday
+2016-05-05,Thursday,Ascension Day of Jesus Christ,Public Holiday
+2016-05-06,Friday,Ascension of the Prophet Muhammad,Public Holiday
+2016-05-22,Sunday,Waisak Day (Buddha's Anniversary),Public Holiday
+2016-06-21,Tuesday,June Solstice,Season
+2016-07-04,Monday,Cuti Bersama,Joint Holiday
+2016-07-05,Tuesday,Cuti Bersama,Joint Holiday
+2016-07-06,Wednesday,Idul Fitri Day 1,Public Holiday
+2016-07-07,Thursday,Idul Fitri Day 2,Public Holiday
+2016-07-07,Thursday,Cuti Bersama,Joint Holiday
+2016-07-08,Friday,Cuti Bersama,Joint Holiday
+2016-08-17,Wednesday,Indonesian Independence Day,Public Holiday
+2016-08-18,Thursday,Raksha Bandhan,Hindu Holiday
+2016-08-25,Thursday,Janmashtami,Hindu Holiday
+2016-09-05,Monday,Ganesh Chaturthi,Hindu Holiday
+2016-09-12,Monday,Eid al-Adha,Public Holiday
+2016-09-22,Thursday,September Equinox,Season
+2016-10-02,Sunday,Navaratri,Hindu Holiday
+2016-10-02,Sunday,Muharram/Islamic New Year,Public Holiday
+2016-10-11,Tuesday,Dussehra,Hindu Holiday
+2016-10-30,Sunday,Diwali/Deepavali,Observance
+2016-12-12,Monday,The Prophet Muhammad's Birthday,Public Holiday
+2016-12-21,Wednesday,December Solstice,Season
+2016-12-24,Saturday,Christmas Eve,Observance
+2016-12-25,Sunday,Christmas Day,Public Holiday
+2016-12-26,Monday,Day after Christmas Day,Joint Holiday
+2016-12-31,Saturday,New Year's Eve,Observance
+2017-01-01,Sunday,New Year's Day,Public Holiday
+2017-01-28,Saturday,Chinese Lunar New Year's Day,Public Holiday
+2017-02-24,Friday,Maha Shivaratri,Hindu Holiday
+2017-03-13,Monday,Holi,Hindu Holiday
+2017-03-20,Monday,March Equinox,Season
+2017-03-28,Tuesday,Bali's Day of Silence and Hindu New Year,Public Holiday
+2017-04-14,Friday,Good Friday,Public Holiday
+2017-04-16,Sunday,Easter Sunday,Observance
+2017-04-24,Monday,Ascension of the Prophet Muhammad,Public Holiday
+2017-05-01,Monday,International Labor Day,Public Holiday
+2017-05-11,Thursday,Waisak Day (Buddha's Anniversary),Public Holiday
+2017-05-25,Thursday,Ascension Day of Jesus Christ,Public Holiday
+2017-06-01,Thursday,Pancasila Day,National holiday
+2017-06-21,Wednesday,June Solstice,Season
+2017-06-26,Monday,Idul Fitri Day 1,Public Holiday
+2017-06-27,Tuesday,Idul Fitri Day 2,Public Holiday
+2017-08-07,Monday,Raksha Bandhan,Hindu Holiday
+2017-08-14,Monday,Janmashtami,Hindu Holiday
+2017-08-17,Thursday,Indonesian Independence Day,Public Holiday
+2017-08-25,Friday,Ganesh Chaturthi,Hindu Holiday
+2017-09-01,Friday,Eid al-Adha,Public Holiday
+2017-09-21,Thursday,Navaratri,Hindu Holiday
+2017-09-21,Thursday,Muharram/Islamic New Year,Public Holiday
+2017-09-23,Saturday,September Equinox,Season
+2017-09-30,Saturday,Dussehra,Hindu Holiday
+2017-10-19,Thursday,Diwali/Deepavali,Observance
+2017-12-01,Friday,The Prophet Muhammad's Birthday,Public Holiday
+2017-12-21,Thursday,December Solstice,Season
+2017-12-24,Sunday,Christmas Eve,Observance
+2017-12-25,Monday,Christmas Day,Public Holiday
+2017-12-31,Sunday,New Year's Eve,Observance
+2018-01-01,Monday,New Years Day,Public Holiday
+2018-02-14,Wednesday,Maha Shivaratri,Hindu Holiday
+2018-02-16,Friday,Chinese Lunar New Year's Day,Public Holiday
+2018-03-10,Saturday,Holi,Hindu Holiday
+2018-03-17,Saturday,Bali's Day of Silence and Hindu New Year,Public Holiday
+2018-03-20,Tuesday,March Equinox,Season
+2018-03-30,Friday,Good Friday,Public Holiday
+2018-04-01,Sunday,Easter Sunday,Observance
+2018-04-14,Saturday,Ascension of the Prophet Muhammad,Public Holiday
+2018-05-01,Tuesday,International Labor Day,Public Holiday
+2018-05-10,Thursday,Ascension Day of Jesus Christ,Public Holiday
+2018-05-29,Tuesday,Waisak Day (Buddha's Anniversary),Public Holiday
+2018-06-01,Friday,Pancasila Day,National holiday
+2018-06-11,Monday,Cuti Bersama,Joint Holiday
+2018-06-12,Tuesday,Cuti Bersama,Joint Holiday
+2018-06-13,Wednesday,Cuti Bersama,Joint Holiday
+2018-06-14,Thursday,Cuti Bersama,Joint Holiday
+2018-06-15,Friday,Idul Fitri Day 1,Public Holiday
+2018-06-16,Saturday,Idul Fitri Day 2,Public Holiday
+2018-06-18,Monday,Cuti Bersama,Joint Holiday
+2018-06-19,Tuesday,Cuti Bersama,Joint Holiday
+2018-06-20,Wednesday,Cuti Bersama,Joint Holiday
+2018-06-21,Thursday,June Solstice,Season
+2018-06-27,Wednesday,Regional Election Day,Public Holiday
+2018-08-17,Friday,Indonesian Independence Day,Public Holiday
+2018-08-22,Wednesday,Eid al-Adha,Public Holiday
+2018-08-26,Sunday,Raksha Bandhan,Hindu Holiday
+2018-09-02,Sunday,Janmashtami,Hindu Holiday
+2018-09-11,Tuesday,Muharram/Islamic New Year,Public Holiday
+2018-09-13,Thursday,Ganesh Chaturthi,Hindu Holiday
+2018-09-23,Sunday,September Equinox,Season
+2018-10-10,Wednesday,Navaratri,Hindu Holiday
+2018-10-19,Friday,Dussehra,Hindu Holiday
+2018-11-07,Wednesday,Diwali/Deepavali,Observance
+2018-11-20,Tuesday,The Prophet Muhammad's Birthday,Public Holiday
+2018-12-22,Saturday,December Solstice,Season
+2018-12-24,Monday,Cuti Bersama (Christmas Eve),Joint Holiday
+2018-12-25,Tuesday,Christmas Day,Public Holiday
+2018-12-31,Monday,New Year's Eve,Observance
+2019-01-01,Tuesday,New Year's Day,Public Holiday
+2019-02-05,Tuesday,Chinese Lunar New Year's Day,Public Holiday
+2019-03-04,Monday,Maha Shivaratri,Hindu Holiday
+2019-03-07,Thursday,Bali's Day of Silence and Hindu New Year,Public Holiday
+2019-03-21,Thursday,March Equinox,Season
+2019-03-21,Thursday,Holi,Hindu Holiday
+2019-04-03,Wednesday,Ascension of the Prophet Muhammad,Public Holiday
+2019-04-17,Wednesday,Election Day,Public Holiday
+2019-04-19,Friday,Good Friday,Public Holiday
+2019-04-21,Sunday,Easter Sunday,Observance
+2019-05-01,Wednesday,International Labor Day,Public Holiday
+2019-05-19,Sunday,Waisak Day (Buddha's Anniversary),Public Holiday
+2019-05-30,Thursday,Ascension Day of Jesus Christ,Public Holiday
+2019-06-01,Saturday,Pancasila Day,National holiday
+2019-06-03,Monday,Cuti Bersama,Joint Holiday
+2019-06-04,Tuesday,Cuti Bersama,Joint Holiday
+2019-06-05,Wednesday,Idul Fitri Day 1,Public Holiday
+2019-06-06,Thursday,Idul Fitri Day 2,Public Holiday
+2019-06-07,Friday,Cuti Bersama,Joint Holiday
+2019-06-21,Friday,June Solstice,Season
+2019-08-11,Sunday,Eid al-Adha,Public Holiday
+2019-08-15,Thursday,Raksha Bandhan,Hindu Holiday
+2019-08-17,Saturday,Indonesian Independence Day,Public Holiday
+2019-08-24,Saturday,Janmashtami,Hindu Holiday
+2019-09-01,Sunday,Muharram/Islamic New Year,Public Holiday
+2019-09-02,Monday,Ganesh Chaturthi,Hindu Holiday
+2019-09-23,Monday,September Equinox,Season
+2019-09-29,Sunday,Navaratri,Hindu Holiday
+2019-10-08,Tuesday,Dussehra,Hindu Holiday
+2019-10-27,Sunday,Diwali/Deepavali,Observance
+2019-11-09,Saturday,The Prophet Muhammad's Birthday,Public Holiday
+2019-12-22,Sunday,December Solstice,Season
+2019-12-24,Tuesday,Cuti Bersama (Christmas Eve),Joint Holiday
+2019-12-25,Wednesday,Christmas Day,Public Holiday
+2019-12-31,Tuesday,New Year's Eve,Observance
