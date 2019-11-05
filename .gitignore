@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# myfiles
+"practice_cases/Practice Case 04 - Predicting Flight Delays.ipynb"
+"practice_cases/Practice Case 03 - Sentiment Analysis.ipynb"
