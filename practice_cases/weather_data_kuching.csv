@@ -1,0 +1,483 @@
+date,time,T,Po,U,Ff,WW,Nh,H,VV,Td
+2018-10-30,23,25.0,755.4,97,2 m/s,Thunderstorm (with or without precipitation).,50%.,300-600,15.0,24.5
+2018-10-30,20,28.6,754.9,83,3 m/s,"Lightning visible, no thunder heard.",60%.,300-600,15.0,25.4
+2018-10-30,17,30.9,752.7,75,2 m/s,"Precipitation within sight, reaching the ground or the surface of the sea, but distant, i.e. estimated to be more than 5 km from the station.",50%.,300-600,15.0,26.0
+2018-10-30,14,32.9,753.0,66,2 m/s,"Precipitation within sight, reaching the ground or the surface of the sea, but distant, i.e. estimated to be more than 5 km from the station.",50%.,300-600,15.0,25.7
+2018-10-30,11,31.8,755.3,66,2 m/s,Clouds generally dissolving or becoming less developed.,40%.,300-600,20.0,24.6
+2018-10-30,8,26.1,755.2,92,,Haze.,20–30%.,300-600,8.0,24.7
+2018-10-30,5,24.7,754.0,96,1 m/s,"Lightning visible, no thunder heard.",50%.,300-600,15.0,24.0
+2018-10-30,2,25.4,754.1,93,1 m/s,Clouds generally dissolving or becoming less developed.,40%.,600-1000,15.0,24.2
+2018-10-29,23,26.7,755.5,86,2 m/s,"Lightning visible, no thunder heard.",50%.,300-600,15.0,24.2
+2018-10-29,20,28.5,754.3,81,3 m/s,"Lightning visible, no thunder heard.",50%.,300-600,15.0,24.9
+2018-10-29,17,31.1,753.0,66,4 m/s,Clouds generally dissolving or becoming less developed.,40%.,600-1000,20.0,23.9
+2018-10-29,14,33.2,753.3,57,2 m/s,Clouds generally dissolving or becoming less developed.,50%.,300-600,20.0,23.6
+2018-10-29,11,30.8,755.8,68,2 m/s,Clouds generally forming or developing.,50%.,300-600,20.0,24.2
+2018-10-29,8,25.1,756.0,97,1 m/s,Clouds generally dissolving or becoming less developed.,20–30%.,300-600,18.0,24.6
+2018-10-29,5,23.6,754.7,100,,"Fog or ice fog, sky visible, has begun or has become thicker during the preceding hour.",50%.,Less,0.8,23.6
+2018-10-29,2,24.1,755.2,98,,Rain (not freezing) not falling as shower(s).,50%.,600-1000,10.0,23.8
+2018-10-28,23,24.3,756.6,99,2 m/s,"Thunderstorm, slight or moderate, without hail, but with rain and/or snow at time of observation.",50%.,300-600,6.0,24.2
+2018-10-28,20,23.9,756.1,98,4 m/s,"Rain, not freezing, continuous, slight at time of observation.",50%.,300-600,5.0,23.5
+2018-10-28,17,27.4,754.0,89,3 m/s,"Thunderstorm, but no precipitation at the time of observation.",60%.,300-600,10.0,25.4
+2018-10-28,14,32.6,754.3,64,3 m/s,"Precipitation within sight, reaching the ground or the surface of the sea, but distant, i.e. estimated to be more than 5 km from the station.",50%.,300-600,15.0,24.9
+2018-10-28,11,31.4,756.6,66,2 m/s,Clouds generally forming or developing.,50%.,300-600,20.0,24.4
+2018-10-28,8,26.6,756.6,92,1 m/s,Clouds generally dissolving or becoming less developed.,20–30%.,600-1000,20.0,25.1
+2018-10-28,5,24.8,755.6,98,1 m/s,Clouds generally dissolving or becoming less developed.,40%.,600-1000,15.0,24.5
+2018-10-28,2,25.2,756.2,98,1 m/s,Clouds generally forming or developing.,40%.,600-1000,15.0,24.8
+2018-10-27,23,25.6,757.2,97,1 m/s,Clouds generally dissolving or becoming less developed.,20–30%.,600-1000,15.0,25.1
+2018-10-27,20,25.7,756.3,97,,State of sky on the whole unchanged.,20–30%.,600-1000,15.0,25.1
+2018-10-27,17,26.2,755.0,93,2 m/s,Clouds generally forming or developing.,40%.,600-1000,20.0,25.0
+2018-10-27,14,25.0,755.5,95,4 m/s,"Thunderstorm, slight or moderate, without hail, but with rain and/or snow at time of observation.",50%.,300-600,5.0,24.2
+2018-10-27,11,31.2,757.6,70,2 m/s,Clouds generally dissolving or becoming less developed.,40%.,300-600,20.0,25.2
+2018-10-27,8,24.4,757.2,96,1 m/s,Clouds generally dissolving or becoming less developed.,20–30%.,600-1000,20.0,23.7
+2018-10-27,5,23.2,755.9,100,,Clouds generally forming or developing.,20–30%.,600-1000,15.0,23.2
+2018-10-27,2,24.0,757.0,98,1 m/s,Clouds generally dissolving or becoming less developed.,20–30%.,600-1000,15.0,23.7
+2018-10-26,23,25.0,757.9,96,1 m/s,Clouds generally forming or developing.,,600-1000,15.0,24.3
+2018-10-26,20,25.5,757.1,97,,State of sky on the whole unchanged.,20–30%.,600-1000,15.0,25.0
+2018-10-26,17,27.2,755.6,86,1 m/s,Clouds generally dissolving or becoming less developed.,20–30%.,300-600,20.0,24.7
+2018-10-26,14,25.7,756.5,93,2 m/s,"Thunderstorm, but no precipitation at the time of observation.",70,300-600,10.0,24.5
+2018-10-26,11,30.6,758.3,74,2 m/s,"Precipitation within sight, reaching the ground or the surface of the sea, but distant, i.e. estimated to be more than 5 km from the station.",50%.,300-600,10.0,25.5
+2018-10-26,8,24.8,758.2,98,2 m/s,Mist.,20–30%.,Less,10.0,24.4
+2018-10-26,5,23.6,756.7,100,,Mist.,50%.,Less,5.0,23.6
+2018-10-26,2,23.6,757.2,99,,"Lightning visible, no thunder heard.",50%.,300-600,15.0,23.5
+2018-10-25,23,24.4,757.9,97,1 m/s,Clouds generally dissolving or becoming less developed.,40%.,600-1000,15.0,23.9
+2018-10-25,20,25.2,756.5,95,1 m/s,Rain (not freezing) not falling as shower(s).,50%.,600-1000,15.0,24.4
+2018-10-25,17,27.7,755.8,88,1 m/s,Haze.,50%.,300-600,12.0,25.5
+2018-10-25,14,24.8,756.4,95,3 m/s,"Thunderstorm, slight or moderate, without hail, but with rain and/or snow at time of observation.",50%.,300-600,3.0,24.0
+2018-10-25,11,30.1,758.0,72,2 m/s,"Rain shower(s), moderate or heavy.",50%.,300-600,4.0,24.4
+2018-10-25,8,25.8,757.6,87,,Clouds generally forming or developing.,40%.,300-600,20.0,23.4
+2018-10-25,5,23.5,756.4,97,1 m/s,"Lightning visible, no thunder heard.",40%.,300-600,15.0,23.0
+2018-10-25,2,23.6,756.8,97,1 m/s,Clouds generally dissolving or becoming less developed.,20–30%.,600-1000,15.0,23.1
+2018-10-24,23,24.4,757.7,92,1 m/s,"Lightning visible, no thunder heard.",40%.,300-600,15.0,23.1
+2018-10-24,20,24.8,756.2,90,3 m/s,Clouds generally dissolving or becoming less developed.,40%.,600-1000,15.0,23.1
+2018-10-24,17,26.9,755.6,82,4 m/s,"Precipitation within sight, reaching the ground or the surface of the sea, but distant, i.e. estimated to be more than 5 km from the station.",50%.,300-600,12.0,23.6
+2018-10-24,14,30.8,755.9,68,3 m/s,"Precipitation within sight, reaching the ground or the surface of the sea, but distant, i.e. estimated to be more than 5 km from the station.",60%.,300-600,15.0,24.2
+2018-10-24,11,29.0,758.0,81,2 m/s,Clouds generally dissolving or becoming less developed.,20–30%.,300-600,20.0,25.4
+2018-10-24,8,24.7,757.3,98,1 m/s,Clouds generally dissolving or becoming less developed.,10%,50-100,15.0,24.3
+2018-10-24,5,24.1,755.8,98,1 m/s,Rain (not freezing) not falling as shower(s).,50%.,Less,6.0,23.8
+2018-10-24,2,23.8,756.9,99,,"Rain, not freezing, continuous, slight at time of observation.",60%.,300-600,10.0,23.7
+2018-10-23,23,24.1,758.3,96,4 m/s,"Thunderstorm, but no precipitation at the time of observation.",60%.,300-600,13.0,23.4
+2018-10-23,20,24.9,755.8,96,2 m/s,"Lightning visible, no thunder heard.",20–30%.,300-600,15.0,24.2
+2018-10-23,17,24.6,754.1,95,,Thunderstorm (with or without precipitation).,50%.,300-600,20.0,23.8
+2018-10-23,14,33.7,754.9,53,3 m/s,Haze.,50%.,300-600,15.0,22.9
+2018-10-23,11,31.6,757.3,68,2 m/s,Haze.,50%.,300-600,15.0,24.9
+2018-10-23,8,26.0,757.0,92,1 m/s,Haze.,20–30%.,200-300,10.0,24.6
+2018-10-23,5,24.4,756.0,97,1 m/s,Mist.,50%.,Less,8.0,23.9
+2018-10-23,2,24.9,756.4,98,2 m/s,Clouds generally forming or developing.,20–30%.,600-1000,15.0,24.5
+2018-10-22,23,25.8,757.2,93,2 m/s,Clouds generally dissolving or becoming less developed.,20–30%.,600-1000,15.0,24.5
+2018-10-22,20,28.0,756.3,83,2 m/s,Clouds generally forming or developing.,20–30%.,600-1000,15.0,24.9
+2018-10-22,17,31.2,754.4,66,4 m/s,Haze.,50%.,300-600,15.0,24.2
+2018-10-22,14,30.8,755.4,71,3 m/s,"Precipitation within sight, reaching the ground or the surface of the sea, but distant, i.e. estimated to be more than 5 km from the station.",60%.,300-600,12.0,24.9
+2018-10-22,11,30.9,757.4,70,2 m/s,Clouds generally forming or developing.,50%.,600-1000,20.0,24.8
+2018-10-22,8,25.6,757.8,91,1 m/s,Clouds generally dissolving or becoming less developed.,10%,300-600,20.0,24.0
+2018-10-22,5,24.2,756.5,97,1 m/s,Clouds generally dissolving or becoming less developed.,20–30%.,600-1000,15.0,23.7
+2018-10-22,2,24.5,756.8,96,,Clouds generally forming or developing.,40%.,600-1000,15.0,23.8
+2018-10-21,23,25.5,758.2,91,1 m/s,State of sky on the whole unchanged.,40%.,600-1000,15.0,23.9
+2018-10-21,20,28.1,757.4,75,2 m/s,"Lightning visible, no thunder heard.",50%.,300-600,15.0,23.3
+2018-10-21,17,30.5,755.2,63,3 m/s,"Precipitation within sight, reaching the ground or the surface of the sea, but distant, i.e. estimated to be more than 5 km from the station.",50%.,300-600,15.0,22.7
+2018-10-21,14,30.2,756.2,68,3 m/s,Clouds generally forming or developing.,50%.,600-1000,20.0,23.6
+2018-10-21,11,29.0,758.3,75,3 m/s,Clouds generally forming or developing.,50%.,300-600,20.0,24.2
+2018-10-21,8,23.9,758.1,98,2 m/s,Mist.,40%.,Less,8.0,23.5
+2018-10-21,5,23.3,756.8,98,1 m/s,Mist.,60%.,Less,3.0,23.0
+2018-10-21,2,23.7,757.4,98,1 m/s,"Rain, not freezing, continuous, slight at time of observation.",60%.,50-100,6.0,23.4
+2018-10-20,23,23.9,759.2,98,1 m/s,"Rain, not freezing, continuous, slight at time of observation.",50%.,Less,6.0,23.5
+2018-10-20,20,24.2,758.3,95,2 m/s,"Rain, not freezing, intermittent, slight at time of observation.",50%.,Less,10.0,23.3
+2018-10-20,17,27.1,755.8,84,4 m/s,"Rain, not freezing, intermittent, slight at time of observation.",60%.,300-600,10.0,24.2
+2018-10-20,14,31.7,755.5,68,2 m/s,"Precipitation within sight, reaching the ground or the surface of the sea, but distant, i.e. estimated to be more than 5 km from the station.",60%.,300-600,15.0,25.2
+2018-10-20,11,29.7,758.2,76,2 m/s,Clouds generally forming or developing.,40%.,300-600,20.0,25.1
+2018-10-20,8,24.8,757.9,95,1 m/s,Clouds generally dissolving or becoming less developed.,40%.,Less,7.0,24.0
+2018-10-20,5,23.9,756.2,99,1 m/s,Mist.,50%.,Less,5.0,23.8
+2018-10-20,2,24.1,756.8,98,,"Rain, not freezing, continuous, slight at time of observation.",50%.,Less,8.0,23.8
+2018-10-19,23,24.4,757.8,98,,"Rain, not freezing, continuous, slight at time of observation.",50%.,600-1000,8.0,24.1
+2018-10-19,20,24.9,757.0,95,2 m/s,Clouds generally forming or developing.,40%.,600-1000,15.0,24.0
+2018-10-19,17,24.6,754.7,94,3 m/s,"Thunderstorm, slight or moderate, without hail, but with rain and/or snow at time of observation.",50%.,300-600,8.0,23.5
+2018-10-19,14,32.6,754.7,56,2 m/s,Clouds generally forming or developing.,50%.,600-1000,25.0,22.6
+2018-10-19,11,28.4,757.2,78,1 m/s,Clouds generally dissolving or becoming less developed.,20–30%.,300-600,20.0,24.1
+2018-10-19,8,23.5,757.4,95,1 m/s,Clouds generally dissolving or becoming less developed.,10%,600-1000,20.0,22.7
+2018-10-19,5,22.6,756.1,99,1 m/s,Mist.,20–30%.,Less,8.0,22.5
+2018-10-19,2,22.9,756.7,99,2 m/s,State of sky on the whole unchanged.,50%.,600-1000,15.0,22.8
+2018-10-18,23,23.3,758.4,98,2 m/s,Rain (not freezing) not falling as shower(s).,50%.,100-200,15.0,22.9
+2018-10-18,20,23.2,757.2,98,2 m/s,"Rain, not freezing, intermittent, slight at time of observation.",40%.,50-100,12.0,22.9
+2018-10-18,17,23.1,756.1,98,1 m/s,"Rain, not freezing, intermittent, slight at time of observation.",50%.,Less,8.0,22.7
+2018-10-18,14,26.6,756.0,86,3 m/s,"Rain shower(s), slight.",50%.,300-600,10.0,24.1
+2018-10-18,11,28.1,757.9,79,2 m/s,"Precipitation within sight, reaching the ground or the surface of the sea, but distant, i.e. estimated to be more than 5 km from the station.",50%.,100-200,15.0,24.2
+2018-10-18,8,24.3,757.1,96,2 m/s,Mist.,60%.,Less,4.0,23.6
+2018-10-18,5,23.6,755.6,98,2 m/s,State of sky on the whole unchanged.,50%.,600-1000,15.0,23.2
+2018-10-18,2,24.0,755.6,96,1 m/s,Clouds generally forming or developing.,50%.,600-1000,15.0,23.3
+2018-10-17,23,24.1,756.8,96,1 m/s,Rain (not freezing) not falling as shower(s).,60%.,300-600,15.0,23.4
+2018-10-17,20,24.7,755.7,91,2 m/s,"Lightning visible, no thunder heard.",60%.,300-600,15.0,23.1
+2018-10-17,17,27.3,754.4,84,2 m/s,"Precipitation within sight, reaching the ground or the surface of the sea, but distant, i.e. estimated to be more than 5 km from the station.",40%.,300-600,15.0,24.4
+2018-10-17,14,30.6,754.3,67,4 m/s,"Precipitation within sight, reaching the ground or the surface of the sea, but distant, i.e. estimated to be more than 5 km from the station.",50%.,300-600,15.0,23.9
+2018-10-17,11,30.0,757.0,76,2 m/s,Clouds generally forming or developing.,60%.,300-600,20.0,25.3
+2018-10-17,8,25.9,757.4,92,,Clouds generally forming or developing.,50%.,300-600,20.0,24.5
+2018-10-17,5,25.0,756.1,94,1 m/s,Thunderstorm (with or without precipitation).,60%.,300-600,15.0,23.9
+2018-10-17,2,25.0,756.7,95,2 m/s,Thunderstorm (with or without precipitation).,40%.,300-600,15.0,24.1
+2018-10-16,23,25.5,757.2,93,2 m/s,"Thunderstorm, but no precipitation at the time of observation.",40%.,300-600,15.0,24.2
+2018-10-16,20,26.3,756.6,90,2 m/s,"Lightning visible, no thunder heard.",40%.,300-600,15.0,24.5
+2018-10-16,17,29.5,754.8,77,2 m/s,"Precipitation within sight, reaching the ground or the surface of the sea, but distant, i.e. estimated to be more than 5 km from the station.",70,300-600,15.0,25.1
+2018-10-16,14,32.2,755.3,65,2 m/s,Clouds generally dissolving or becoming less developed.,60%.,300-600,20.0,24.7
+2018-10-16,11,30.0,757.4,76,2 m/s,Clouds generally forming or developing.,60%.,300-600,20.0,25.4
+2018-10-16,8,25.7,757.8,93,1 m/s,Clouds generally dissolving or becoming less developed.,20–30%.,Less,6.0,24.4
+2018-10-16,5,24.6,756.7,96,1 m/s,Thunderstorm (with or without precipitation).,40%.,600-1000,15.0,23.9
+2018-10-16,2,24.5,756.7,96,2 m/s,"Thunderstorm, but no precipitation at the time of observation.",50%.,300-600,15.0,23.8
+2018-10-15,23,24.9,757.8,91,1 m/s,"Thunderstorm, but no precipitation at the time of observation.",50%.,300-600,15.0,23.4
+2018-10-15,20,24.4,756.9,96,2 m/s,Thunderstorm (with or without precipitation).,50%.,300-600,15.0,23.7
+2018-10-15,17,31.5,754.9,63,1 m/s,"Thunderstorm, but no precipitation at the time of observation.",60%.,300-600,12.0,23.5
+2018-10-15,14,32.3,755.6,59,3 m/s,Clouds generally forming or developing.,50%.,600-1000,20.0,23.2
+2018-10-15,11,30.1,757.9,70,3 m/s,Clouds generally forming or developing.,40%.,300-600,20.0,24.1
+2018-10-15,8,24.6,758.2,91,,Clouds generally dissolving or becoming less developed.,20–30%.,300-600,20.0,23.1
+2018-10-15,5,23.3,757.3,97,1 m/s,Clouds generally forming or developing.,40%.,600-1000,15.0,22.8
+2018-10-15,2,23.8,757.0,91,2 m/s,Clouds generally dissolving or becoming less developed.,20–30%.,600-1000,15.0,22.3
+2018-10-14,23,24.7,758.3,93,1 m/s,Clouds generally forming or developing.,40%.,600-1000,15.0,23.4
+2018-10-14,20,26.0,757.6,84,1 m/s,Clouds generally dissolving or becoming less developed.,20–30%.,600-1000,15.0,23.1
+2018-10-14,17,28.2,755.9,73,2 m/s,Clouds generally dissolving or becoming less developed.,40%.,600-1000,25.0,23.0
+2018-10-14,14,29.3,756.8,63,2 m/s,Clouds generally forming or developing.,40%.,300-600,25.0,21.6
+2018-10-14,11,26.9,757.9,82,2 m/s,Clouds generally dissolving or becoming less developed.,20–30%.,200-300,20.0,23.5
+2018-10-14,8,23.0,758.4,98,,"Rain, not freezing, continuous, slight at time of observation.",50%.,50-100,10.0,22.6
+2018-10-14,5,23.1,757.8,98,1 m/s,"Rain, not freezing, continuous, slight at time of observation.",70,100-200,8.0,22.7
+2018-10-14,2,23.9,757.5,97,3 m/s,"Rain, not freezing, intermittent, slight at time of observation.",50%.,600-1000,8.0,23.4
+2018-10-13,23,24.8,758.2,93,,State of sky on the whole unchanged.,20–30%.,600-1000,15.0,23.5
+2018-10-13,20,25.0,757.0,90,3 m/s,Clouds generally dissolving or becoming less developed.,40%.,600-1000,15.0,23.3
+2018-10-13,17,26.5,755.6,84,3 m/s,Clouds generally forming or developing.,40%.,300-600,20.0,23.6
+2018-10-13,14,26.7,756.6,83,1 m/s,Rain (not freezing) not falling as shower(s).,40%.,300-600,15.0,23.5
+2018-10-13,11,24.4,757.9,94,1 m/s,"Rain, not freezing, continuous, slight at time of observation.",70,100-200,8.0,23.3
+2018-10-13,8,24.1,757.2,95,2 m/s,"Precipitation within sight, reaching the ground or the surface of the sea, but distant, i.e. estimated to be more than 5 km from the station.",60%.,300-600,15.0,23.2
+2018-10-13,5,23.9,755.6,95,2 m/s,"Thunderstorm, slight or moderate, without hail, but with rain and/or snow at time of observation.",50%.,300-600,5.0,23.1
+2018-10-13,2,24.8,756.1,90,3 m/s,"Rain, not freezing, intermittent, slight at time of observation.",60%.,300-600,10.0,23.1
+2018-10-12,23,24.6,756.8,93,3 m/s,State of sky on the whole unchanged.,40%.,600-1000,15.0,23.4
+2018-10-12,20,25.7,756.0,86,2 m/s,Clouds generally dissolving or becoming less developed.,50%.,600-1000,15.0,23.2
+2018-10-12,17,28.7,754.1,79,4 m/s,"Precipitation within sight, reaching the ground or the surface of the sea, but distant, i.e. estimated to be more than 5 km from the station.",60%.,300-600,15.0,24.7
+2018-10-12,14,31.6,755.2,63,2 m/s,"Precipitation within sight, reaching the ground or the surface of the sea, but distant, i.e. estimated to be more than 5 km from the station.",70,300-600,15.0,23.6
+2018-10-12,11,28.6,757.4,76,,Clouds generally dissolving or becoming less developed.,40%.,300-600,18.0,23.9
+2018-10-12,8,24.2,756.8,96,1 m/s,Clouds generally forming or developing.,40%.,Less,15.0,23.5
+2018-10-12,5,23.5,755.6,97,2 m/s,State of sky on the whole unchanged.,40%.,600-1000,15.0,23.0
+2018-10-12,2,23.5,756.3,98,,Clouds generally dissolving or becoming less developed.,40%.,600-1000,15.0,23.2
+2018-10-11,23,24.0,757.5,96,1 m/s,State of sky on the whole unchanged.,40%.,600-1000,15.0,23.3
+2018-10-11,20,24.5,755.8,95,1 m/s,Clouds generally dissolving or becoming less developed.,40%.,600-1000,15.0,23.7
+2018-10-11,17,24.9,754.6,96,2 m/s,"Rain, not freezing, continuous, slight at time of observation.",50%.,50-100,6.0,24.2
+2018-10-11,14,23.7,755.2,99,6 m/s,"Thunderstorm, slight or moderate, without hail, but with rain and/or snow at time of observation.",60%.,300-600,0.5,23.6
+2018-10-11,11,30.3,756.6,66,2 m/s,Clouds generally forming or developing.,40%.,300-600,20.0,23.3
+2018-10-11,8,25.0,755.8,90,1 m/s,Clouds generally forming or developing.,20–30%.,300-600,20.0,23.3
+2018-10-11,5,24.0,754.3,93,2 m/s,"Thunderstorm, but no precipitation at the time of observation.",20–30%.,300-600,15.0,22.8
+2018-10-11,2,24.9,754.6,89,3 m/s,Clouds generally forming or developing.,40%.,600-1000,15.0,22.9
+2018-10-10,23,25.5,756.3,90,2 m/s,"Lightning visible, no thunder heard.",40%.,300-600,15.0,23.7
+2018-10-10,20,27.7,754.9,80,2 m/s,"Lightning visible, no thunder heard.",20–30%.,300-600,15.0,24.0
+2018-10-10,17,30.5,753.0,67,4 m/s,"Precipitation within sight, reaching the ground or the surface of the sea, but distant, i.e. estimated to be more than 5 km from the station.",50%.,300-600,15.0,23.7
+2018-10-10,14,29.9,753.7,70,5 m/s,Clouds generally forming or developing.,50%.,300-600,18.0,23.9
+2018-10-10,11,30.7,755.9,67,2 m/s,Clouds generally forming or developing.,50%.,300-600,20.0,24.0
+2018-10-10,8,25.3,756.1,90,2 m/s,Clouds generally forming or developing.,20–30%.,100-200,20.0,23.6
+2018-10-10,5,22.9,754.2,98,1 m/s,Fog or ice fog.,40%.,Less,4.0,22.5
+2018-10-10,2,23.8,754.8,95,1 m/s,Clouds generally dissolving or becoming less developed.,20–30%.,600-1000,15.0,23.0
+2018-10-9,23,24.5,756.1,93,2 m/s,State of sky on the whole unchanged.,20–30%.,600-1000,15.0,23.3
+2018-10-9,20,25.0,755.1,91,3 m/s,Clouds generally dissolving or becoming less developed.,40%.,600-1000,15.0,23.4
+2018-10-9,17,26.5,753.8,90,2 m/s,"Precipitation within sight, reaching the ground or the surface of the sea, but distant, i.e. estimated to be more than 5 km from the station.",50%.,300-600,15.0,24.7
+2018-10-9,14,26.2,754.2,92,4 m/s,"Thunderstorm, slight or moderate, without hail, but with rain and/or snow at time of observation.",50%.,300-600,8.0,24.8
+2018-10-9,11,29.9,756.4,72,2 m/s,Clouds generally forming or developing.,20–30%.,300-600,20.0,24.3
+2018-10-9,8,24.9,755.7,91,1 m/s,Clouds generally forming or developing.,40%.,600-1000,20.0,23.3
+2018-10-9,5,24.1,754.2,92,2 m/s,"Lightning visible, no thunder heard.",50%.,300-600,15.0,22.8
+2018-10-9,2,24.3,754.8,92,2 m/s,"Lightning visible, no thunder heard.",50%.,300-600,15.0,23.0
+2018-10-8,23,25.1,756.3,90,3 m/s,Clouds generally dissolving or becoming less developed.,40%.,600-1000,15.0,23.4
+2018-10-8,20,26.1,754.7,91,2 m/s,Clouds generally dissolving or becoming less developed.,50%.,600-1000,15.0,24.5
+2018-10-8,17,29.3,752.9,76,2 m/s,State of sky on the whole unchanged.,60%.,300-600,18.0,24.6
+2018-10-8,14,31.4,753.6,63,2 m/s,Clouds generally dissolving or becoming less developed.,60%.,600-1000,20.0,23.6
+2018-10-8,11,29.7,756.1,72,3 m/s,Clouds generally forming or developing.,50%.,300-600,20.0,24.1
+2018-10-8,8,25.1,756.4,93,2 m/s,Clouds generally forming or developing.,50%.,300-600,18.0,23.8
+2018-10-8,5,24.6,754.8,93,2 m/s,"Lightning visible, no thunder heard.",40%.,300-600,15.0,23.4
+2018-10-8,2,25.0,755.1,90,3 m/s,Clouds generally forming or developing.,40%.,600-1000,15.0,23.3
+2018-10-7,23,25.9,756.4,91,2 m/s,State of sky on the whole unchanged.,20–30%.,600-1000,15.0,24.3
+2018-10-7,20,27.2,755.4,83,2 m/s,State of sky on the whole unchanged.,20–30%.,600-1000,15.0,24.1
+2018-10-7,17,29.7,753.8,64,2 m/s,Clouds generally dissolving or becoming less developed.,40%.,300-600,20.0,22.1
+2018-10-7,14,29.8,755.0,69,1 m/s,Clouds generally forming or developing.,40%.,600-1000,20.0,23.5
+2018-10-7,11,26.3,757.4,77,3 m/s,Clouds generally forming or developing.,20–30%.,300-600,20.0,21.9
+2018-10-7,8,25.5,757.1,93,1 m/s,Clouds generally dissolving or becoming less developed.,40%.,300-600,20.0,24.3
+2018-10-7,5,24.7,755.2,94,1 m/s,Thunderstorm (with or without precipitation).,40%.,300-600,15.0,23.6
+2018-10-7,2,25.2,755.5,90,1 m/s,Clouds generally dissolving or becoming less developed.,40%.,600-1000,15.0,23.5
+2018-10-6,23,26.5,756.5,89,2 m/s,Clouds generally dissolving or becoming less developed.,40%.,600-1000,15.0,24.6
+2018-10-6,20,28.3,755.7,79,2 m/s,Clouds generally dissolving or becoming less developed.,40%.,600-1000,15.0,24.4
+2018-10-6,17,31.0,754.2,62,4 m/s,Clouds generally forming or developing.,40%.,600-1000,20.0,22.9
+2018-10-6,14,32.3,754.6,55,3 m/s,Clouds generally forming or developing.,50%.,600-1000,20.0,22.2
+2018-10-6,11,31.3,756.9,68,3 m/s,Clouds generally forming or developing.,40%.,300-600,20.0,24.7
+2018-10-6,8,26.1,756.7,85,1 m/s,Clouds generally dissolving or becoming less developed.,20–30%.,300-600,20.0,23.4
+2018-10-6,5,24.9,755.6,95,,State of sky on the whole unchanged.,20–30%.,600-1000,15.0,24.0
+2018-10-6,2,25.5,755.8,95,1 m/s,Clouds generally forming or developing.,40%.,600-1000,15.0,24.6
+2018-10-5,23,26.2,757.2,93,2 m/s,State of sky on the whole unchanged.,40%.,600-1000,15.0,25.0
+2018-10-5,20,27.3,756.2,87,2 m/s,Clouds generally forming or developing.,,600-1000,15.0,25.0
+2018-10-5,17,28.8,754.6,80,2 m/s,Clouds generally dissolving or becoming less developed.,50%.,300-600,20.0,25.1
+2018-10-5,14,30.7,755.0,71,3 m/s,"Precipitation within sight, reaching the ground or the surface of the sea, but distant, i.e. estimated to be more than 5 km from the station.",50%.,300-600,15.0,24.8
+2018-10-5,11,28.5,757.0,81,1 m/s,Clouds generally dissolving or becoming less developed.,50%.,300-600,20.0,25.0
+2018-10-5,8,25.3,757.1,95,1 m/s,Rain (not freezing) not falling as shower(s).,40%.,50-100,10.0,24.4
+2018-10-5,5,25.3,755.1,95,2 m/s,Slight rain at time of observation. Thunderstorm during the preceding hour but not at time of observation.,60%.,300-600,10.0,24.4
+2018-10-5,2,25.6,755.0,92,2 m/s,"Thunderstorm, but no precipitation at the time of observation.",60%.,300-600,8.0,24.2
+2018-10-4,23,26.2,756.1,89,1 m/s,Haze.,20–30%.,600-1000,8.0,24.2
+2018-10-4,20,28.0,754.7,85,2 m/s,"Lightning visible, no thunder heard.",40%.,300-600,8.0,25.3
+2018-10-4,17,32.3,753.0,70,3 m/s,"Precipitation within sight, reaching the ground or the surface of the sea, but distant, i.e. estimated to be more than 5 km from the station.",60%.,300-600,8.0,26.1
+2018-10-4,14,33.0,753.7,61,3 m/s,Haze.,50%.,600-1000,8.0,24.5
+2018-10-4,11,31.0,756.4,73,2 m/s,Haze.,60%.,300-600,8.0,25.7
+2018-10-4,8,25.3,757.0,93,1 m/s,Haze.,50%.,Less,7.0,24.1
+2018-10-4,5,24.2,755.7,96,,Clouds generally dissolving or becoming less developed.,40%.,600-1000,15.0,23.5
+2018-10-4,2,24.7,755.5,95,1 m/s,Clouds generally dissolving or becoming less developed.,40%.,600-1000,15.0,23.9
+2018-10-3,23,25.4,756.6,93,1 m/s,Clouds generally dissolving or becoming less developed.,50%.,100-200,15.0,24.2
+2018-10-3,20,25.3,756.1,93,1 m/s,"Lightning visible, no thunder heard.",60%.,300-600,15.0,24.1
+2018-10-3,17,25.2,754.6,91,3 m/s,Thunderstorm (with or without precipitation).,50%.,50-100,15.0,23.6
+2018-10-3,14,32.9,754.6,62,3 m/s,Clouds generally forming or developing.,50%.,300-600,20.0,24.6
+2018-10-3,11,30.1,757.0,73,2 m/s,Clouds generally forming or developing.,20–30%.,300-600,20.0,24.7
+2018-10-3,8,24.8,756.9,94,,Clouds generally forming or developing.,50%.,600-1000,18.0,23.7
+2018-10-3,5,24.1,755.8,95,1 m/s,Clouds generally dissolving or becoming less developed.,40%.,600-1000,15.0,23.3
+2018-10-3,2,24.3,755.1,95,1 m/s,Clouds generally dissolving or becoming less developed.,40%.,600-1000,15.0,23.4
+2018-10-2,23,24.6,756.9,93,2 m/s,State of sky on the whole unchanged.,50%.,600-1000,15.0,23.4
+2018-10-2,20,24.1,755.8,94,4 m/s,"Thunderstorm, slight or moderate, without hail, but with rain and/or snow at time of observation.",60%.,300-600,1.5,23.0
+2018-10-2,17,30.2,753.1,76,4 m/s,"Rain shower(s), slight.",60%.,300-600,12.0,25.4
+2018-10-2,14,31.9,754.3,66,2 m/s,Clouds generally dissolving or becoming less developed.,50%.,300-600,20.0,24.7
+2018-10-2,11,28.3,756.9,80,2 m/s,Clouds generally forming or developing.,50%.,300-600,20.0,24.5
+2018-10-2,8,25.1,756.5,95,1 m/s,Clouds generally dissolving or becoming less developed.,20–30%.,100-200,20.0,24.2
+2018-10-2,5,23.8,755.2,97,,Clouds generally dissolving or becoming less developed.,20–30%.,600-1000,15.0,23.3
+2018-10-2,2,24.4,755.7,95,1 m/s,State of sky on the whole unchanged.,20–30%.,600-1000,15.0,23.6
+2018-10-1,23,25.0,756.7,94,1 m/s,Clouds generally dissolving or becoming less developed.,40%.,600-1000,15.0,23.9
+2018-10-1,20,25.3,755.5,92,2 m/s,State of sky on the whole unchanged.,40%.,600-1000,15.0,23.9
+2018-10-1,17,27.5,754.5,88,2 m/s,Clouds generally dissolving or becoming less developed.,40%.,50-100,15.0,25.3
+2018-10-1,14,25.3,754.9,91,7 m/s,"Thunderstorm, slight or moderate, without hail, but with rain and/or snow at time of observation.",50%.,300-600,2.5,23.7
+2018-10-1,11,27.6,756.7,89,1 m/s,"Rain, not freezing, continuous, slight at time of observation.",50%.,200-300,8.0,25.6
+2018-10-1,8,26.3,756.4,91,1 m/s,"Rain, not freezing, intermittent, slight at time of observation.",60%.,Less,10.0,24.7
+2018-10-1,5,25.7,754.6,92,1 m/s,State of sky on the whole unchanged.,20–30%.,600-1000,15.0,24.3
+2018-10-1,2,25.3,754.8,93,1 m/s,State of sky on the whole unchanged.,20–30%.,600-1000,15.0,24.1
+2018-09-30,23,26.4,755.9,88,2 m/s,State of sky on the whole unchanged.,50%.,600-1000,15.0,24.3
+2018-12-25,23,26.1,755.5,95,1 m/s,State of sky on the whole unchanged.,10%,600-1000,15.0,25.3
+2018-12-25,20,26.8,755.0,90,2 m/s,Shower(s) of rain.,40%.,300-600,15.0,25.1
+2018-12-25,17,30.5,753.4,70,2 m/s,Haze.,50%.,600-1000,15.0,24.4
+2018-12-25,14,32.6,754.3,58,4 m/s,Haze.,50%.,300-600,10.0,23.4
+2018-12-25,11,30.6,756.0,68,3 m/s,Haze.,20–30%.,300-600,10.0,24.1
+2018-12-25,8,25.4,755.7,88,,Haze.,10%,600-1000,10.0,23.3
+2018-12-25,5,24.6,754.6,93,,Clouds generally dissolving or becoming less developed.,40%.,600-1000,15.0,23.3
+2018-12-25,2,25.5,754.9,88,1 m/s,Clouds generally dissolving or becoming less developed.,20–30%.,600-1000,15.0,23.4
+2018-12-24,23,27.0,755.2,81,,State of sky on the whole unchanged.,40%.,600-1000,15.0,23.4
+2018-12-24,20,28.4,754.3,83,3 m/s,"Lightning visible, no thunder heard.",40%.,300-600,15.0,25.2
+2018-12-24,17,32.6,752.8,63,3 m/s,"Precipitation within sight, reaching the ground or the surface of the sea, but distant, i.e. estimated to be more than 5 km from the station.",50%.,300-600,15.0,24.7
+2018-12-24,14,33.7,753.7,53,4 m/s,Clouds generally dissolving or becoming less developed.,20–30%.,300-600,20.0,22.8
+2018-12-24,11,30.5,755.8,66,3 m/s,Clouds generally forming or developing.,40%.,300-600,20.0,23.5
+2018-12-24,8,24.7,756.1,94,,Clouds generally dissolving or becoming less developed.,40%.,50-100,20.0,23.6
+2018-12-24,5,23.2,754.9,97,1 m/s,Mist.,20–30%.,Less,8.0,22.7
+2018-12-24,2,24.0,755.2,95,1 m/s,State of sky on the whole unchanged.,10%,600-1000,15.0,23.2
+2018-12-23,23,24.6,755.6,94,,Clouds generally dissolving or becoming less developed.,20–30%.,600-1000,15.0,23.5
+2018-12-23,20,25.5,755.3,93,2 m/s,State of sky on the whole unchanged.,40%.,600-1000,15.0,24.3
+2018-12-23,17,27.4,753.8,84,3 m/s,"Thunderstorm, but no precipitation at the time of observation.",60%.,300-600,15.0,24.5
+2018-12-23,14,30.3,754.6,70,4 m/s,Clouds generally forming or developing.,50%.,300-600,20.0,24.3
+2018-12-23,11,30.2,756.3,70,1 m/s,Clouds generally dissolving or becoming less developed.,40%.,300-600,20.0,24.1
+2018-12-23,8,24.9,756.4,93,1 m/s,Clouds generally forming or developing.,40%.,600-1000,20.0,23.6
+2018-12-23,5,23.9,754.7,95,1 m/s,State of sky on the whole unchanged.,20–30%.,600-1000,15.0,23.0
+2018-12-23,2,24.0,755.2,96,1 m/s,State of sky on the whole unchanged.,10%,600-1000,15.0,23.3
+2018-12-22,23,24.9,756.1,93,2 m/s,Clouds generally dissolving or becoming less developed.,20–30%.,600-1000,15.0,23.7
+2018-12-22,20,26.9,755.7,84,2 m/s,State of sky on the whole unchanged.,20–30%.,600-1000,15.0,24.0
+2018-12-22,17,29.6,754.2,69,4 m/s,Clouds generally dissolving or becoming less developed.,40%.,600-1000,20.0,23.4
+2018-12-22,14,30.6,754.6,64,4 m/s,Clouds generally dissolving or becoming less developed.,50%.,600-1000,20.0,23.0
+2018-12-22,11,27.7,757.1,83,4 m/s,"Precipitation within sight, reaching the ground or the surface of the sea, but distant, i.e. estimated to be more than 5 km from the station.",60%.,300-600,15.0,24.5
+2018-12-22,8,23.3,756.7,98,,Fog or ice fog.,50%.,Less,1.5,23.0
+2018-12-22,5,23.0,755.4,98,1 m/s,Mist.,60%.,Less,1.0,22.7
+2018-12-22,2,23.4,756.1,98,,Clouds generally dissolving or becoming less developed.,40%.,100-200,15.0,23.0
+2018-12-21,23,23.6,756.7,98,2 m/s,"Rain, not freezing, continuous, slight at time of observation.",50%.,50-100,8.0,23.2
+2018-12-21,20,23.5,756.5,98,,"Rain, not freezing, continuous, slight at time of observation.",50%.,100-200,7.0,23.1
+2018-12-21,17,24.0,754.9,95,2 m/s,"Rain, not freezing, continuous, moderate at time of observation.",50%.,600-1000,3.0,23.2
+2018-12-21,14,29.0,754.6,77,3 m/s,"Precipitation within sight, reaching the ground or the surface of the sea, but distant, i.e. estimated to be more than 5 km from the station.",60%.,300-600,10.0,24.6
+2018-12-21,11,30.6,756.5,70,2 m/s,Clouds generally forming or developing.,40%.,300-600,20.0,24.4
+2018-12-21,8,24.3,756.4,91,1 m/s,Clouds generally forming or developing.,40%.,300-600,20.0,22.7
+2018-12-21,5,23.0,755.3,98,1 m/s,Clouds generally dissolving or becoming less developed.,20–30%.,300-600,15.0,22.6
+2018-12-21,2,23.3,756.2,97,1 m/s,State of sky on the whole unchanged.,40%.,300-600,15.0,22.8
+2018-12-20,23,23.4,757.3,95,1 m/s,"Rain, not freezing, continuous, slight at time of observation.",40%.,300-600,10.0,22.6
+2018-12-20,20,23.2,757.6,96,3 m/s,"Rain, not freezing, continuous, heavy at time of observation.",40%.,300-600,1.5,22.5
+2018-12-20,17,28.5,754.8,78,4 m/s,"Precipitation within sight, reaching the ground or the surface of the sea, but distant, i.e. estimated to be more than 5 km from the station.",50%.,300-600,10.0,24.2
+2018-12-20,14,29.5,755.9,74,5 m/s,Clouds generally forming or developing.,50%.,300-600,20.0,24.3
+2018-12-20,11,29.1,758.2,74,2 m/s,Clouds generally dissolving or becoming less developed.,40%.,300-600,20.0,24.1
+2018-12-20,8,24.4,758.2,97,2 m/s,Mist.,40%.,Less,5.0,23.9
+2018-12-20,5,24.2,756.7,98,2 m/s,"Rain, not freezing, continuous, slight at time of observation.",50%.,50-100,8.0,23.8
+2018-12-20,2,24.3,757.9,96,1 m/s,"Rain, not freezing, continuous, slight at time of observation.",40%.,600-1000,6.0,23.6
+2018-12-19,23,25.5,758.1,87,2 m/s,"Lightning visible, no thunder heard.",50%.,300-600,15.0,23.2
+2018-12-19,20,26.5,757.3,86,2 m/s,"Lightning visible, no thunder heard.",50%.,300-600,15.0,24.0
+2018-12-19,17,30.6,754.8,68,5 m/s,"Precipitation within sight, reaching the ground or the surface of the sea, but distant, i.e. estimated to be more than 5 km from the station.",50%.,300-600,15.0,24.1
+2018-12-19,14,33.8,755.6,54,3 m/s,Clouds generally forming or developing.,40%.,600-1000,20.0,23.1
+2018-12-19,11,30.2,757.9,71,1 m/s,Clouds generally forming or developing.,20–30%.,300-600,20.0,24.3
+2018-12-19,8,24.2,757.8,94,,Fog or ice fog.,50%.,Less,8.0,23.1
+2018-12-19,5,23.3,756.3,98,1 m/s,"Fog or ice fog, sky visible, no appreciable change during the preceding hour.",50%.,Less,0.1,23.0
+2018-12-19,2,23.5,756.9,98,,Mist.,40%.,Less,5.0,23.1
+2018-12-18,23,24.0,757.9,96,1 m/s,Clouds generally dissolving or becoming less developed.,20–30%.,600-1000,15.0,23.3
+2018-12-18,20,24.5,757.0,96,1 m/s,"Thunderstorm, slight or moderate, without hail, but with rain and/or snow at time of observation.",50%.,300-600,8.0,23.8
+2018-12-18,17,29.6,754.9,78,3 m/s,"Precipitation within sight, reaching the ground or the surface of the sea, but distant, i.e. estimated to be more than 5 km from the station.",50%.,300-600,15.0,25.4
+2018-12-18,14,31.8,755.8,67,2 m/s,Clouds generally dissolving or becoming less developed.,50%.,600-1000,20.0,24.9
+2018-12-18,11,29.1,758.0,79,1 m/s,Clouds generally dissolving or becoming less developed.,40%.,300-600,20.0,25.0
+2018-12-18,8,24.5,757.5,96,1 m/s,Mist.,40%.,Less,6.0,23.8
+2018-12-18,5,23.7,756.4,98,2 m/s,"Rain, not freezing, continuous, slight at time of observation.",70,Less,9.0,23.3
+2018-12-18,2,23.9,757.4,98,1 m/s,"Rain, not freezing, continuous, slight at time of observation.",50%.,100-200,10.0,23.5
+2018-12-17,23,24.1,758.5,98,2 m/s,"Rain, not freezing, continuous, slight at time of observation.",50%.,50-100,8.0,23.7
+2018-12-17,20,24.1,757.8,95,,"Rain, not freezing, intermittent, slight at time of observation.",50%.,100-200,10.0,23.3
+2018-12-17,17,24.1,756.1,95,1 m/s,Moderate or heavy rain at time of observation. Thunderstorm during the preceding hour but not at time of observation.,50%.,50-100,2.0,23.3
+2018-12-17,14,31.5,755.9,68,2 m/s,"Precipitation within sight, reaching the ground or the surface of the sea, but distant, i.e. estimated to be more than 5 km from the station.",60%.,300-600,12.0,24.8
+2018-12-17,11,30.2,758.1,72,1 m/s,Clouds generally forming or developing.,40%.,300-600,20.0,24.6
+2018-12-17,8,24.4,757.8,95,2 m/s,Mist.,40%.,Less,8.0,23.6
+2018-12-17,5,23.3,756.3,98,1 m/s,Mist.,20–30%.,Less,2.5,22.9
+2018-12-17,2,24.0,756.8,96,,State of sky on the whole unchanged.,20–30%.,600-1000,15.0,23.3
+2018-12-16,23,24.4,757.6,95,1 m/s,Rain (not freezing) not falling as shower(s).,40%.,600-1000,15.0,23.6
+2018-12-16,20,25.2,756.8,91,3 m/s,"Rain, not freezing, intermittent, slight at time of observation.",50%.,600-1000,10.0,23.7
+2018-12-16,17,29.8,754.7,76,1 m/s,Clouds generally dissolving or becoming less developed.,50%.,300-600,20.0,25.1
+2018-12-16,14,31.1,755.8,67,2 m/s,"Precipitation within sight, reaching the ground or the surface of the sea, but distant, i.e. estimated to be more than 5 km from the station.",50%.,300-600,15.0,24.2
+2018-12-16,11,29.1,757.8,77,2 m/s,Clouds generally dissolving or becoming less developed.,40%.,300-600,20.0,24.6
+2018-12-16,8,23.7,757.3,98,1 m/s,Fog or ice fog.,70,Less,1.0,23.3
+2018-12-16,5,23.3,755.6,98,,Mist.,50%.,Less,8.0,23.0
+2018-12-16,2,23.8,756.3,97,,State of sky on the whole unchanged.,40%.,50-100,15.0,23.3
+2018-12-15,23,24.0,757.6,98,2 m/s,"Rain, not freezing, continuous, slight at time of observation.",50%.,50-100,12.0,23.6
+2018-12-15,20,25.8,756.7,95,1 m/s,Rain (not freezing) not falling as shower(s).,50%.,300-600,15.0,24.9
+2018-12-15,17,27.9,754.3,87,2 m/s,Thunderstorm (with or without precipitation).,60%.,300-600,15.0,25.5
+2018-12-15,14,29.4,754.8,76,1 m/s,Shower(s) of rain.,50%.,300-600,15.0,24.8
+2018-12-15,11,30.3,756.8,73,3 m/s,Clouds generally forming or developing.,40%.,300-600,20.0,24.9
+2018-12-15,8,25.2,756.5,93,2 m/s,Clouds generally dissolving or becoming less developed.,20–30%.,100-200,20.0,24.0
+2018-12-15,5,23.7,755.2,97,1 m/s,Rain (not freezing) not falling as shower(s).,40%.,Less,15.0,23.2
+2018-12-15,2,23.6,755.9,98,1 m/s,"Rain, not freezing, continuous, slight at time of observation.",50%.,50-100,8.0,23.2
+2018-12-14,23,23.6,757.0,97,,"Thunderstorm, slight or moderate, without hail, but with rain and/or snow at time of observation.",60%.,Less,3.0,23.1
+2018-12-14,20,25.8,755.2,95,2 m/s,"Thunderstorm, slight or moderate, without hail, but with rain and/or snow at time of observation.",50%.,300-600,3.0,25.0
+2018-12-14,17,30.5,753.6,71,2 m/s,Clouds generally forming or developing.,60%.,300-600,20.0,24.7
+2018-12-14,14,30.3,754.6,71,2 m/s,Clouds generally dissolving or becoming less developed.,50%.,300-600,20.0,24.5
+2018-12-14,11,29.3,757.1,77,2 m/s,Clouds generally dissolving or becoming less developed.,40%.,50-100,20.0,24.8
+2018-12-14,8,25.3,756.8,95,,Clouds generally forming or developing.,50%.,Less,10.0,24.4
+2018-12-14,5,24.4,755.2,97,1 m/s,"Lightning visible, no thunder heard.",40%.,300-600,15.0,23.9
+2018-12-14,2,24.5,755.6,95,2 m/s,State of sky on the whole unchanged.,20–30%.,300-600,15.0,23.7
+2018-12-13,23,25.2,756.8,90,2 m/s,Clouds generally forming or developing.,50%.,300-600,15.0,23.5
+2018-12-13,20,26.4,756.0,88,3 m/s,"Lightning visible, no thunder heard.",60%.,300-600,12.0,24.3
+2018-12-13,17,28.3,754.1,79,3 m/s,Clouds generally dissolving or becoming less developed.,40%.,300-600,20.0,24.3
+2018-12-13,14,31.4,754.4,70,3 m/s,Clouds generally forming or developing.,60%.,600-1000,20.0,25.3
+2018-12-13,11,30.7,756.4,67,1 m/s,Clouds generally forming or developing.,50%.,300-600,20.0,23.9
+2018-12-13,8,25.9,756.7,93,1 m/s,Clouds generally forming or developing.,60%.,300-600,20.0,24.7
+2018-12-13,5,24.0,755.5,98,,Mist.,40%.,Less,6.0,23.7
+2018-12-13,2,24.9,755.8,95,1 m/s,State of sky on the whole unchanged.,20–30%.,600-1000,15.0,24.1
+2018-12-12,23,25.6,756.3,95,1 m/s,State of sky on the whole unchanged.,20–30%.,600-1000,15.0,24.7
+2018-12-12,20,25.9,755.7,93,2 m/s,Clouds generally dissolving or becoming less developed.,20–30%.,600-1000,15.0,24.7
+2018-12-12,17,26.2,754.0,90,1 m/s,Shower(s) of rain.,50%.,300-600,15.0,24.5
+2018-12-12,14,31.3,754.9,68,1 m/s,Clouds generally forming or developing.,60%.,300-600,20.0,24.7
+2018-12-12,11,29.2,756.9,78,2 m/s,Clouds generally forming or developing.,50%.,300-600,20.0,25.0
+2018-12-12,8,24.9,756.6,95,1 m/s,Rain (not freezing) not falling as shower(s).,50%.,50-100,18.0,24.0
+2018-12-12,5,24.3,756.0,95,2 m/s,"Rain, not freezing, continuous, slight at time of observation.",50%.,50-100,10.0,23.5
+2018-12-12,2,24.5,756.0,96,,"Lightning visible, no thunder heard.",40%.,300-600,15.0,23.8
+2018-12-11,23,24.9,756.0,94,,Rain (not freezing) not falling as shower(s).,40%.,600-1000,15.0,23.8
+2018-12-11,20,25.0,755.5,96,1 m/s,"Thunderstorm, slight or moderate, without hail, but with rain and/or snow at time of observation.",50%.,50-100,5.0,24.3
+2018-12-11,17,29.9,753.7,72,4 m/s,"Thunderstorm, but no precipitation at the time of observation.",60%.,300-600,10.0,24.2
+2018-12-11,14,31.0,754.1,68,3 m/s,"Precipitation within sight, reaching the ground or the surface of the sea, but distant, i.e. estimated to be more than 5 km from the station.",60%.,300-600,15.0,24.5
+2018-12-11,11,30.9,756.0,75,2 m/s,Clouds generally forming or developing.,40%.,300-600,20.0,26.0
+2018-12-11,8,25.6,755.7,94,2 m/s,Clouds generally dissolving or becoming less developed.,10%,600-1000,20.0,24.6
+2018-12-11,5,25.5,754.3,94,1 m/s,State of sky on the whole unchanged.,40%.,600-1000,15.0,24.5
+2018-12-11,2,25.8,754.9,93,1 m/s,Clouds generally forming or developing.,40%.,600-1000,15.0,24.5
+2018-12-10,23,26.8,755.5,90,1 m/s,"Lightning visible, no thunder heard.",20–30%.,300-600,15.0,25.0
+2018-12-10,20,27.9,754.6,84,3 m/s,"Lightning visible, no thunder heard.",20–30%.,300-600,15.0,24.9
+2018-12-10,17,30.6,752.9,69,4 m/s,Clouds generally dissolving or becoming less developed.,40%.,300-600,20.0,24.2
+2018-12-10,14,31.4,753.8,70,4 m/s,"Precipitation within sight, reaching the ground or the surface of the sea, but distant, i.e. estimated to be more than 5 km from the station.",50%.,300-600,15.0,25.4
+2018-12-10,11,30.9,755.7,71,1 m/s,Clouds generally forming or developing.,40%.,300-600,20.0,25.0
+2018-12-10,8,24.8,755.7,94,1 m/s,Clouds generally dissolving or becoming less developed.,20–30%.,600-1000,20.0,23.7
+2018-12-10,5,24.0,754.1,96,1 m/s,"Lightning visible, no thunder heard.",50%.,300-600,15.0,23.3
+2018-12-10,2,24.1,754.4,98,2 m/s,State of sky on the whole unchanged.,40%.,600-1000,15.0,23.7
+2018-12-9,23,24.7,755.7,94,2 m/s,Clouds generally dissolving or becoming less developed.,40%.,600-1000,15.0,23.6
+2018-12-9,20,24.5,755.3,95,1 m/s,"Rain, not freezing, continuous, slight at time of observation.",50%.,300-600,9.0,23.6
+2018-12-9,17,24.9,753.5,95,8 m/s,"Thunderstorm, slight or moderate, without hail, but with rain and/or snow at time of observation.",50%.,300-600,3.0,24.0
+2018-12-9,14,32.6,753.7,63,1 m/s,Clouds generally forming or developing.,50%.,600-1000,20.0,24.6
+2018-12-9,11,30.7,755.5,72,2 m/s,Clouds generally dissolving or becoming less developed.,40%.,300-600,20.0,25.1
+2018-12-9,8,25.8,755.8,89,1 m/s,Clouds generally dissolving or becoming less developed.,20–30%.,300-600,20.0,23.8
+2018-12-9,5,24.2,754.9,95,,Clouds generally dissolving or becoming less developed.,20–30%.,600-1000,15.0,23.3
+2018-12-9,2,24.5,755.7,96,1 m/s,State of sky on the whole unchanged.,20–30%.,600-1000,15.0,23.8
+2018-12-8,23,25.0,756.4,96,2 m/s,State of sky on the whole unchanged.,20–30%.,600-1000,15.0,24.3
+2018-12-8,20,26.6,755.8,89,2 m/s,Clouds generally dissolving or becoming less developed.,40%.,600-1000,15.0,24.7
+2018-12-8,17,29.0,754.2,74,2 m/s,Clouds generally forming or developing.,50%.,300-600,20.0,24.0
+2018-12-8,14,28.0,754.9,83,2 m/s,Rain (not freezing) not falling as shower(s).,40%.,100-200,18.0,24.9
+2018-12-8,11,24.3,757.1,97,2 m/s,"Rain, not freezing, continuous, heavy at time of observation.",60%.,50-100,3.0,23.8
+2018-12-8,8,25.4,756.1,95,2 m/s,"Rain, not freezing, intermittent, slight at time of observation.",50%.,300-600,8.0,24.6
+2018-12-8,5,25.3,754.3,93,2 m/s,Clouds generally forming or developing.,40%.,600-1000,15.0,24.1
+2018-12-8,2,25.3,754.9,95,2 m/s,Clouds generally dissolving or becoming less developed.,20–30%.,600-1000,15.0,24.5
+2018-12-7,23,26.1,755.6,92,1 m/s,Clouds generally forming or developing.,40%.,600-1000,15.0,24.7
+2018-12-7,20,27.4,754.2,85,2 m/s,"Lightning visible, no thunder heard.",20–30%.,300-600,15.0,24.7
+2018-12-7,17,29.5,752.3,77,4 m/s,Clouds generally dissolving or becoming less developed.,40%.,600-1000,20.0,25.1
+2018-12-7,14,31.6,753.7,65,2 m/s,"Precipitation within sight, reaching the ground or the surface of the sea, but distant, i.e. estimated to be more than 5 km from the station.",40%.,300-600,15.0,24.3
+2018-12-7,11,27.2,755.5,87,,Rain (not freezing) not falling as shower(s).,50%.,50-100,20.0,24.9
+2018-12-7,8,24.6,755.7,96,1 m/s,"Rain, not freezing, continuous, slight at time of observation.",50%.,Less,4.0,23.9
+2018-12-7,5,24.8,754.0,96,3 m/s,"Rain, not freezing, intermittent, slight at time of observation.",50%.,300-600,8.0,24.1
+2018-12-7,2,25.1,754.0,94,1 m/s,"Lightning visible, no thunder heard.",50%.,300-600,15.0,24.1
+2018-12-6,23,26.1,754.7,94,1 m/s,"Lightning visible, no thunder heard.",50%.,300-600,15.0,25.1
+2018-12-6,20,28.2,753.4,74,1 m/s,Clouds generally forming or developing.,20–30%.,600-1000,15.0,23.1
+2018-12-6,17,31.4,751.9,61,1 m/s,Clouds generally dissolving or becoming less developed.,20–30%.,600-1000,20.0,23.0
+2018-12-6,14,30.7,753.1,62,1 m/s,Clouds generally forming or developing.,10%,300-600,20.0,22.5
+2018-12-6,11,27.4,754.5,76,3 m/s,Clouds generally dissolving or becoming less developed.,,300-600,20.0,22.7
+2018-12-6,8,23.0,754.7,93,3 m/s,"Rain, not freezing, continuous, slight at time of observation.",40%.,600-1000,10.0,21.8
+2018-12-6,5,22.5,754.6,94,2 m/s,Moderate or heavy rain at time of observation. Thunderstorm during the preceding hour but not at time of observation.,60%.,300-600,5.0,21.4
+2018-12-6,2,25.1,754.1,93,1 m/s,"Lightning visible, no thunder heard.",20–30%.,300-600,15.0,23.9
+2018-12-5,23,25.7,754.9,93,2 m/s,Clouds generally forming or developing.,50%.,600-1000,15.0,24.5
+2018-12-5,20,27.1,753.5,86,2 m/s,"Lightning visible, no thunder heard.",20–30%.,300-600,15.0,24.5
+2018-12-5,17,30.7,751.6,76,3 m/s,"Precipitation within sight, reaching the ground or the surface of the sea, but distant, i.e. estimated to be more than 5 km from the station.",50%.,300-600,15.0,25.9
+2018-12-5,14,30.7,753.2,73,2 m/s,"Precipitation within sight, reaching the ground or the surface of the sea, but distant, i.e. estimated to be more than 5 km from the station.",50%.,300-600,15.0,25.3
+2018-12-5,11,31.3,755.3,70,2 m/s,Clouds generally forming or developing.,60%.,300-600,20.0,25.3
+2018-12-5,8,27.0,755.7,90,1 m/s,Clouds generally dissolving or becoming less developed.,10%,300-600,20.0,25.2
+2018-12-5,5,24.6,753.9,98,1 m/s,Mist.,40%.,Less,6.0,24.2
+2018-12-5,2,25.4,754.7,96,,State of sky on the whole unchanged.,40%.,600-1000,15.0,24.8
+2018-12-4,23,26.1,755.5,91,,Clouds generally forming or developing.,40%.,600-1000,15.0,24.5
+2018-12-4,20,26.8,755.0,87,2 m/s,Clouds generally forming or developing.,40%.,600-1000,15.0,24.5
+2018-12-4,17,29.5,753.2,77,2 m/s,Clouds generally forming or developing.,50%.,600-1000,20.0,25.1
+2018-12-4,14,28.3,755.0,81,3 m/s,Clouds generally dissolving or becoming less developed.,60%.,300-600,20.0,24.8
+2018-12-4,11,28.8,756.6,78,2 m/s,Clouds generally dissolving or becoming less developed.,40%.,300-600,20.0,24.5
+2018-12-4,8,24.8,756.1,96,1 m/s,"Rain, not freezing, continuous, slight at time of observation.",50%.,Less,6.0,24.1
+2018-12-4,5,24.3,754.6,96,1 m/s,"Rain, not freezing, intermittent, slight at time of observation.",50%.,600-1000,12.0,23.6
+2018-12-4,2,24.7,754.5,93,2 m/s,"Lightning visible, no thunder heard.",40%.,300-600,15.0,23.4
+2018-12-3,23,25.4,756.3,93,2 m/s,Clouds generally dissolving or becoming less developed.,40%.,600-1000,15.0,24.1
+2018-12-3,20,25.1,754.7,96,2 m/s,Slight rain at time of observation. Thunderstorm during the preceding hour but not at time of observation.,50%.,300-600,10.0,24.5
+2018-12-3,17,25.8,752.9,93,7 m/s,"Rain shower(s), moderate or heavy.",60%.,300-600,2.0,24.5
+2018-12-3,14,33.9,753.6,58,3 m/s,Clouds generally dissolving or becoming less developed.,50%.,600-1000,20.0,24.5
+2018-12-3,11,30.9,755.8,68,2 m/s,Clouds generally forming or developing.,40%.,300-600,20.0,24.3
+2018-12-3,8,25.9,755.6,92,2 m/s,Clouds generally dissolving or becoming less developed.,20–30%.,Less,20.0,24.5
+2018-12-3,5,24.5,754.0,96,1 m/s,"Rain, not freezing, intermittent, slight at time of observation.",40%.,600-1000,10.0,23.8
+2018-12-3,2,24.7,754.5,93,2 m/s,"Lightning visible, no thunder heard.",40%.,300-600,15.0,23.5
+2018-12-2,23,25.6,755.5,91,2 m/s,State of sky on the whole unchanged.,20–30%.,600-1000,15.0,24.0
+2018-12-2,20,26.7,754.5,86,2 m/s,Clouds generally dissolving or becoming less developed.,40%.,600-1000,15.0,24.1
+2018-12-2,17,27.7,753.0,86,3 m/s,Shower(s) of rain.,40%.,300-600,15.0,25.1
+2018-12-2,14,32.7,753.4,61,3 m/s,"Precipitation within sight, reaching the ground or the surface of the sea, but distant, i.e. estimated to be more than 5 km from the station.",50%.,600-1000,15.0,24.1
+2018-12-2,11,30.0,755.5,76,2 m/s,Clouds generally forming or developing.,40%.,300-600,20.0,25.3
+2018-12-2,8,24.3,755.8,97,1 m/s,Fog or ice fog.,50%.,Less,2.0,23.8
+2018-12-2,5,24.0,754.4,98,,Rain (not freezing) not falling as shower(s).,40%.,50-100,12.0,23.6
+2018-12-2,2,23.9,755.1,98,1 m/s,"Rain, not freezing, continuous, moderate at time of observation.",60%.,50-100,5.0,23.6
+2018-12-1,23,23.6,755.9,97,2 m/s,"Thunderstorm, slight or moderate, without hail, but with rain and/or snow at time of observation.",60%.,300-600,4.0,23.1
+2018-12-1,20,28.4,754.8,79,2 m/s,"Lightning visible, no thunder heard.",50%.,300-600,15.0,24.4
+2018-12-1,17,30.2,753.0,71,3 m/s,State of sky on the whole unchanged.,50%.,300-600,20.0,24.4
+2018-12-1,14,31.4,754.0,67,2 m/s,Clouds generally forming or developing.,60%.,300-600,20.0,24.5
+2018-12-1,11,29.6,756.4,78,2 m/s,Clouds generally forming or developing.,40%.,300-600,20.0,25.4
+2018-12-1,8,24.3,756.4,98,3 m/s,"Fog or ice fog, sky visible, no appreciable change during the preceding hour.",60%.,Less,0.3,24.0
+2018-12-1,5,23.9,755.7,98,2 m/s,Mist.,50%.,Less,6.0,23.5
+2018-12-1,2,24.4,755.4,96,2 m/s,Clouds generally dissolving or becoming less developed.,20–30%.,600-1000,15.0,23.7
+2018-11-30,23,24.5,756.7,96,2 m/s,"Rain, not freezing, intermittent, slight at time of observation.",40%.,600-1000,8.0,23.8
+2018-11-30,20,25.1,757.0,93,3 m/s,"Lightning visible, no thunder heard.",50%.,300-600,15.0,23.8
+2018-11-30,17,25.8,755.2,93,3 m/s,"Thunderstorm, but no precipitation at the time of observation.",50%.,300-600,18.0,24.5
+2018-11-30,14,31.0,754.9,74,4 m/s,"Thunderstorm, but no precipitation at the time of observation.",70,300-600,15.0,25.8
+2018-11-30,11,30.2,757.2,80,2 m/s,Clouds generally forming or developing.,50%.,300-600,20.0,26.3
+2018-11-30,8,26.7,757.5,94,,Clouds generally dissolving or becoming less developed.,50%.,300-600,20.0,25.6
+2018-11-30,5,25.1,755.9,100,1 m/s,Thunderstorm (with or without precipitation).,40%.,50-100,10.0,25.1
+2018-11-30,2,25.6,756.1,100,1 m/s,State of sky on the whole unchanged.,20–30%.,600-1000,15.0,25.6
+2018-11-29,23,26.2,756.7,98,1 m/s,Clouds generally dissolving or becoming less developed.,50%.,600-1000,15.0,25.9
+2018-11-29,20,28.2,756.1,90,,"Rain, not freezing, intermittent, slight at time of observation.",50%.,600-1000,10.0,26.4
+2018-11-29,17,30.9,754.4,66,3 m/s,"Precipitation within sight, reaching the ground or the surface of the sea, but distant, i.e. estimated to be more than 5 km from the station.",50%.,300-600,15.0,23.8
+2018-11-29,14,31.0,755.2,69,4 m/s,"Precipitation within sight, reaching the ground or the surface of the sea, but distant, i.e. estimated to be more than 5 km from the station.",60%.,300-600,15.0,24.7
+2018-11-29,11,30.7,756.8,74,2 m/s,Clouds generally forming or developing.,50%.,300-600,20.0,25.6
+2018-11-29,8,25.6,757.6,95,2 m/s,Clouds generally dissolving or becoming less developed.,10%,300-600,20.0,24.8
+2018-11-29,5,25.0,756.4,95,2 m/s,"Thunderstorm, but no precipitation at the time of observation.",40%.,300-600,15.0,24.2
+2018-11-29,2,25.5,756.2,95,,State of sky on the whole unchanged.,20–30%.,600-1000,15.0,24.7
+2018-11-28,23,26.4,757.3,93,2 m/s,Clouds generally dissolving or becoming less developed.,40%.,600-1000,15.0,25.1
+2018-11-28,20,28.1,756.2,85,2 m/s,Clouds generally forming or developing.,40%.,600-1000,15.0,25.4
+2018-11-28,17,31.0,754.6,69,2 m/s,State of sky on the whole unchanged.,40%.,300-600,20.0,24.7
+2018-11-28,14,32.3,755.2,65,3 m/s,Clouds generally forming or developing.,50%.,600-1000,20.0,24.8
+2018-11-28,11,30.6,757.7,74,1 m/s,"Precipitation within sight, reaching the ground or the surface of the sea, but distant, i.e. estimated to be more than 5 km from the station.",60%.,300-600,18.0,25.5
+2018-11-28,8,26.1,757.6,94,2 m/s,Thunderstorm (with or without precipitation).,50%.,50-100,12.0,25.1
+2018-11-28,5,24.5,756.1,99,2 m/s,"Thunderstorm, but no precipitation at the time of observation.",20–30%.,Less,8.0,24.4
+2018-11-28,2,25.5,756.8,98,,"Lightning visible, no thunder heard.",50%.,300-600,15.0,25.1
+2018-11-27,23,26.3,757.5,95,1 m/s,State of sky on the whole unchanged.,40%.,600-1000,15.0,25.5
+2018-11-27,20,27.0,756.7,94,2 m/s,Clouds generally forming or developing.,50%.,600-1000,15.0,26.0
+2018-11-27,17,29.4,755.0,79,1 m/s,Clouds generally dissolving or becoming less developed.,40%.,300-600,18.0,25.3
+2018-11-27,14,27.4,755.6,87,4 m/s,"Rain shower(s), moderate or heavy.",50%.,300-600,7.0,25.1
+2018-11-27,11,32.0,757.6,69,2 m/s,Clouds generally forming or developing.,60%.,300-600,20.0,25.7
+2018-11-27,8,25.2,757.8,91,2 m/s,Thunderstorm (with or without precipitation).,20–30%.,300-600,20.0,23.6
+2018-11-27,5,23.3,756.3,98,2 m/s,Clouds generally dissolving or becoming less developed.,20–30%.,600-1000,15.0,22.9
+2018-11-27,2,24.0,756.4,97,1 m/s,"Lightning visible, no thunder heard.",50%.,300-600,15.0,23.5
+2018-11-26,23,24.2,757.8,95,2 m/s,Clouds generally dissolving or becoming less developed.,40%.,600-1000,15.0,23.4
+2018-11-26,20,24.4,756.8,91,2 m/s,Thunderstorm (with or without precipitation).,50%.,300-600,15.0,22.9
+2018-11-26,17,30.2,754.6,74,3 m/s,Thunderstorm (with or without precipitation).,60%.,300-600,15.0,25.1
+2018-11-26,14,32.5,755.2,64,2 m/s,Clouds generally forming or developing.,50%.,300-600,20.0,24.9
+2018-11-26,11,30.3,757.3,76,2 m/s,Clouds generally forming or developing.,20–30%.,300-600,20.0,25.6
+2018-11-26,8,24.7,757.0,96,1 m/s,Clouds generally dissolving or becoming less developed.,20–30%.,600-1000,20.0,24.0
+2018-11-26,5,23.6,756.4,98,1 m/s,Clouds generally dissolving or becoming less developed.,20–30%.,600-1000,15.0,23.3
+2018-11-26,2,24.0,756.9,98,,Clouds generally dissolving or becoming less developed.,20–30%.,600-1000,15.0,23.6
+2018-11-25,23,24.0,757.4,96,1 m/s,Clouds generally dissolving or becoming less developed.,20–30%.,600-1000,15.0,23.3
